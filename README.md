@@ -61,13 +61,6 @@ All projects were completed as part of the Master's program in Artificial Intell
 ## 👤 Author
 
 **Hoshea**
-- Graduate Student in AI
+- Master of IT in Business(AI Track)
 - Singapore Management University
 
-## 📄 License
-
-These projects are for educational purposes and portfolio demonstration.
-
----
-
-*Note: Some large files and sensitive data have been excluded from this repository.*
