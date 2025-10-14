@@ -1,0 +1,2264 @@
+,prompt,prompt_type,response(with RAG),response(without RAG),RAG context
+0,"
+Use the following pieces of context to answer the below question/request. 
+Imagine a customer looking to invest their annual bonus. 
+Write an email for XYZ Bank that convinces them to choose 
+XYZ's investment services by explaining how it aligns with 
+their goal of future financial security.
+
+{result}
+",Zero-shot prompting,"## Subject: Invest Your Annual Bonus Wisely with XYZ's Personalized Wealth Management
+
+Dear [Customer Name],
+
+Congratulations on receiving your annual bonus! This is a great opportunity to invest in your future financial security. At XYZ Bank, we understand the importance of planning for your long-term goals, and we're here to help you make the most of your bonus.
+
+**Why Choose XYZ for Your Investment Needs?**
+
+* **Personalized Wealth Management:** Our experienced advisors will work with you to create a customized investment plan that aligns with your specific goals, risk tolerance, and financial situation. 
+* **Access to a Range of Investment Options:** We offer a diverse selection of investment products, including stocks, bonds, mutual funds, and ETFs, allowing you to build a well-diversified portfolio.
+* **Expert Advice and Support:** Our advisors are available to answer your questions, provide guidance, and help you navigate the ever-changing market landscape.
+* **Convenient Online and Mobile Access:** Manage your investments and track your progress anytime, anywhere with our user-friendly online platform and mobile app.
+
+**How XYZ Can Help You Achieve Future Financial Security:**
+
+* **Maximize Your Bonus:** By investing your bonus wisely, you can potentially grow your wealth over time and reach your financial goals faster.
+* **Plan for Retirement:** Start building a solid retirement nest egg early to ensure a comfortable and financially secure future.
+* **Secure Your Family's Future:** Make sure your loved ones are taken care of financially in the event of unexpected circumstances.
+* **Achieve Your Financial Dreams:** Whether you're saving for a down payment on a house, a dream vacation, or your child's education, we can help you develop a plan to make it happen.
+
+**Get Started Today:**
+
+Take the first step towards securing your financial future by scheduling a free consultation with one of our experienced wealth advisors. We'll work with you to create a personalized investment plan that meets your specific needs and goals.
+
+**Contact us today:**
+
+* **Call us at:** 1234 5678
+* **Visit our website:** www.xyz.com
+* **Schedule a consultation:** [Link to appointment scheduler]
+
+Don't let this opportunity to invest in your future pass you by. Let XYZ Bank help you make the most of your annual bonus and achieve your financial goals.
+
+Sincerely,
+
+The XYZ Bank Team
+","## Subject: Invest Your Bonus Wisely with XYZ Bank and Secure Your Financial Future
+
+Dear [Customer Name],
+
+Congratulations on receiving your annual bonus! This is an excellent opportunity to invest in your future and achieve your financial goals. At XYZ Bank, we understand the importance of making smart investment decisions, especially when it comes to securing your long-term financial security.
+
+We offer a comprehensive range of investment services tailored to meet the individual needs of our clients. Whether you're looking for a conservative approach with guaranteed returns or a more aggressive strategy with the potential for higher growth, our experienced financial advisors will work closely with you to develop a personalized investment plan that aligns with your risk tolerance and financial objectives.
+
+Here are just a few ways XYZ Bank can help you invest your bonus wisely:
+
+* **Diversification:** We offer a wide variety of investment options, including stocks, bonds, mutual funds, and ETFs, allowing you to spread your risk and maximize your potential returns.
+* **Expert guidance:** Our team of experienced financial advisors will provide you with personalized guidance and support throughout your investment journey. They will help you understand your options, answer your questions, and make informed investment decisions.
+* **Convenient online platform:** Our secure online platform allows you to easily track your investments, make contributions, and manage your account 24/7.
+* **Competitive fees:** We offer competitive fees and transparent pricing, ensuring that your investment returns are maximized.
+
+Investing your annual bonus with XYZ Bank is a smart step towards securing your financial future. By working with our experienced team, you can rest assured that your money is in good hands and working towards achieving your long-term goals.
+
+To learn more about our investment services and schedule a free consultation with one of our financial advisors, please visit our website at [website address] or call us at [phone number].
+
+Sincerely,
+
+The XYZ Bank Team","1. template_id: 12394
+subject: <ADV> Send money from Singapore to Malaysia at preferential rates!
+template_text: From now till 30 April 2024, enjoy preferential exchange rates and avoid cable/commission fees when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts. Rest assured that rates quoted on our website are guaranteed even during market off hours (including public holidays and weekends). Log in to XYZ Internet Banking or the XYZ Digital app to get started now! Terms and conditions apply.
+description: Exchange Rate Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+2. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+3. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+4. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12371
+subject: Stand to win S$8,888 when you refer friends to XYZ
+template_text: Last week to stand to win S$8,888 & an omakase dinner for 2. Refer overseas friends to XYZ & earn up to $210. Get 1 lucky draw chance for every 5 who open accounts and deposit S$1k. Help them prep! They can open bank accounts remotely prior to arriving in.
+
+description: Savings promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000"
+1,"
+Write an email for XYZ Bank to promote their investment services, highlighting the advantages over competitors
+{result}
+",Zero-shot prompting,"## Subject: Invest in Your Future with XYZ Bank and Secure Financial Freedom
+
+Dear [Customer Name],
+
+Congratulations on receiving your annual bonus! This is a fantastic opportunity to invest in your future and secure financial freedom. At XYZ Bank, we understand the importance of planning for your long-term goals, which is why we offer a range of investment services tailored to your individual needs.
+
+**Here's how XYZ Bank can help you achieve your financial goals:**
+
+* **Personalized Wealth Management:** Our experienced financial advisors will work with you to create a customized investment plan that aligns with your risk tolerance, financial goals, and time horizon. Whether you're looking to grow your wealth, save for retirement, or achieve other financial objectives, we have the expertise to guide you every step of the way.
+* **Diverse Investment Options:** We offer a wide range of investment options, including stocks, bonds, mutual funds, and ETFs, allowing you to diversify your portfolio and mitigate risk. Our advisors will help you choose the right investments to meet your specific goals and risk appetite.
+* **Potential Tax Advantages:** Many of our investment products offer potential tax advantages, helping you maximize your returns and minimize your tax burden. Our advisors can help you understand the tax implications of your investments and ensure you're taking advantage of all available benefits.
+* **Convenient Access:** Manage your investments easily and securely through our online platform or mobile app. You can track your portfolio performance, review statements, and make changes to your investments anytime, anywhere.
+
+**Ready to start investing in your future?**
+
+Contact our wealth management team today at 1234 5678 or visit www.xyz.com to schedule a consultation. We'll be happy to discuss your financial goals and help you create a personalized investment plan that sets you on the path to financial freedom.
+
+**Remember, the earlier you start investing, the more time your money has to grow.**
+
+Sincerely,
+
+The XYZ Bank Wealth Management Team","## Subject: Invest with Confidence: Why XYZ Bank is Your Best Choice
+
+Dear [Customer Name],
+
+Are you looking to grow your wealth and secure your financial future? Look no further than XYZ Bank's comprehensive investment services. We offer a wide range of solutions tailored to your individual needs and goals, ensuring you achieve maximum returns while minimizing risk.
+
+**Here's why XYZ Bank stands out from the competition:**
+
+* **Experienced and Dedicated Team:** Our team of financial experts possesses years of experience and in-depth knowledge of the market, allowing them to provide personalized guidance and support throughout your investment journey.
+* **Diversified Investment Options:** We offer a vast array of investment options, including stocks, bonds, mutual funds, ETFs, and alternative investments. This allows you to create a well-diversified portfolio that aligns with your risk tolerance and financial goals.
+* **Competitive Fees and Commissions:** We believe in making investing accessible and affordable for everyone. That's why we offer competitive fees and commissions, ensuring you keep more of your hard-earned money.
+* **Advanced Technology and Resources:** We provide access to cutting-edge technology and research tools, empowering you to make informed investment decisions. Our online platform offers real-time market data, portfolio tracking, and educational resources to help you stay informed and in control.
+* **Exceptional Customer Service:** We prioritize your satisfaction and are committed to providing exceptional customer service. Our dedicated team is always available to answer your questions, address your concerns, and guide you through every step of the investment process.
+
+**Why Choose XYZ Bank?**
+
+* **Proven Track Record:** We have a long and successful history of helping our clients achieve their financial goals.
+* **Financial Stability and Security:** As a leading financial institution, we offer the security and stability you need to feel confident about your investments.
+* **Commitment to Your Success:** We are genuinely invested in your success and go the extra mile to ensure you reach your financial aspirations.
+
+**Take the First Step Towards a Brighter Financial Future**
+
+Contact us today to schedule a free consultation with one of our financial advisors. They will work closely with you to understand your financial goals, risk tolerance, and investment preferences. Together, we will create a personalized investment plan designed to help you achieve your dreams.
+
+Don't wait any longer to start building your wealth. Choose XYZ Bank and invest with confidence.
+
+Sincerely,
+
+The XYZ Bank Investment Team
+
+**P.S.** For a limited time, we are offering a special introductory rate on our investment services. Contact us today to learn more!
+","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12351
+subject: Exclusive Benefits Await
+template_text: Dear Lily, Step up your spending experience and apply for the XYZ Saver's Credit Card now. As our esteemed customer, you will enjoy $600 gift! Apply now to start your journey of privileges.  XYZ Team
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12435
+subject: <ADV> Earn up to S$1,600 by referring XYZ to your family and friends
+template_text: Dear Valued Client,
+Love banking with us? Spread the word and earn S$80 cashback for every successful referral for a participating product. The more you refer, the more you earn, all the way up to S$1,600 cashback! T&Cs apply.
+Refer and earn today by heading to: xyz.com/sg/refer 
+Or look out for a push notification invitation in your XYZ Mobile
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+2,"
+Generate a remittance promotion message with the subject: XYZ Remit: Your Gateway to China
+    **Example:**
+    - Expected Output: ""Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.""
+{result}
+",Direct prompting,"## XYZ Remit: Your Gateway to China
+
+Enjoy competitive rates and **$0 transfer fees** when you send money to China with XYZ Remit! 
+Tap to find out more.
+
+**Why Choose XYZ Remit:**
+
+* **Fast & Secure:** Send money quickly and securely to your loved ones in China.
+* **Competitive Rates:** Get the best possible exchange rates for your money.
+* **No Transfer Fees:** We won't charge you any fees to send money to China.
+* **Convenient:** Send money from your phone or computer, 24/7.
+
+**Get started today and experience the benefits of XYZ Remit!** 
+
+**Tap to learn more.** 
+","## Subject: XYZ Remit: Your Gateway to China
+
+## Body:
+
+Hey there,
+
+Looking to send money to China? Look no further than XYZ Remit! 
+
+**Here's why you should choose us:**
+
+* **Competitive rates:** Get the most out of your money with our low exchange rates.
+* **$0 transfer fees:** Save even more with our zero transfer fees on all transactions to China.
+* **Fast and secure:** Your money will be delivered to your loved ones quickly and securely.
+* **Easy to use:** Our platform is simple and straightforward, so you can send money in minutes.
+
+**Ready to get started?**
+
+Click here to learn more and send your first transfer today!
+
+**Limited-time offer:**
+
+For a limited time, new users can enjoy an additional **[Discount amount]% discount** on their first transfer. Just use the code **[Discount code]** at checkout.
+
+**Don't miss out!**
+
+**Sincerely,**
+
+The XYZ Remit Team
+
+**P.S.** We also offer a variety of other services, including bill payments and mobile top-ups. Check out our website to learn more!
+","1. template_id: 12353
+subject: XYZ Remit: Your Gateway to China
+template_text: Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+3. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12394
+subject: <ADV> Send money from Singapore to Malaysia at preferential rates!
+template_text: From now till 30 April 2024, enjoy preferential exchange rates and avoid cable/commission fees when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts. Rest assured that rates quoted on our website are guaranteed even during market off hours (including public holidays and weekends). Log in to XYZ Internet Banking or the XYZ Digital app to get started now! Terms and conditions apply.
+description: Exchange Rate Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+5. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000"
+3,"
+Compose an email for XYZ Bank that encourages recipients to explore their investment options.
+{result}
+",Direct prompting,"## Subject: Plan Your Future with XYZ Bank's Investment Options!
+
+Dear Valued Customer,
+
+As you plan for your future, consider exploring XYZ Bank's diverse investment options designed to help you achieve your financial goals. 
+
+**Grow Your Wealth with Our Personalized Wealth Management Services:**
+
+* **Expert Advice:** Our experienced wealth advisors will work closely with you to understand your individual needs and risk tolerance. They will provide personalized guidance and recommend suitable investment strategies to help you reach your financial aspirations.
+* **Wide Range of Investment Opportunities:** We offer a comprehensive selection of investment products, including stocks, bonds, mutual funds, and more, allowing you to diversify your portfolio and mitigate risk.
+* **Convenient Access:** Manage your investments seamlessly through our user-friendly online platform or mobile app. You can track your portfolio performance, adjust your investments, and access valuable market insights anytime, anywhere.
+
+**Start Building Your Retirement Nest Egg:**
+
+* **Comprehensive Retirement Savings Plan:** Secure your future with our tax-advantaged retirement savings plan. Benefit from potential tax savings and enjoy peace of mind knowing you are on track for a comfortable retirement.
+* **Flexible Contribution Options:** Choose the contribution amount that fits your budget and adjust it as needed. You can also set up automatic contributions for hassle-free savings.
+* **Professional Management:** Our experienced team manages the plan's investments, ensuring your funds are invested wisely and strategically for long-term growth.
+
+**Explore More Ways to Enhance Your Finances:**
+
+* **High-Interest Savings Account:** Earn competitive interest rates on your savings with our secure and convenient online savings account. Manage your funds easily and watch your money grow.
+* **Exclusive Credit Card Offers:** Enjoy attractive cashback rewards, generous points, and exclusive benefits with our premium credit cards. Choose the card that aligns with your spending habits and maximize your rewards potential.
+
+At XYZ Bank, we are committed to helping you achieve your financial goals. Visit our website at www.xyz.com or call us at 1234 5678 to learn more about our investment options and start your journey towards a brighter financial future.
+
+Sincerely,
+
+The XYZ Bank Team
+","## Subject: Unlock Your Financial Future with XYZ Bank's Investment Solutions
+
+Dear Valued Customer,
+
+Are you looking for ways to grow your wealth and secure your financial future? Look no further than XYZ Bank! We offer a wide range of investment options to meet your individual needs and goals.
+
+**Why Invest with XYZ Bank?**
+
+* **Experienced and knowledgeable team:** Our team of financial experts has years of experience in guiding clients towards successful investments. 
+* **Diverse investment options:** We offer a variety of investment products, including stocks, bonds, mutual funds, ETFs, and more. 
+* **Personalized investment plans:** We work closely with you to create a customized investment plan that aligns with your risk tolerance and financial objectives.
+* **Competitive rates and fees:** We offer competitive rates and fees to help you maximize your returns.
+* **Secure and convenient online platform:** Manage your investments easily and securely through our user-friendly online platform.
+
+**Explore Your Options Today!**
+
+We invite you to explore the various investment options available at XYZ Bank. Visit our website or schedule an appointment with one of our financial advisors to discuss your investment goals and find the right solutions for you.
+
+**Here are some resources to get you started:**
+
+* **Investment Options:** [link to investment options page]
+* **Financial Calculators:** [link to financial calculators page]
+* **Schedule an Appointment:** [link to appointment scheduling page]
+
+We are confident that XYZ Bank can help you achieve your financial goals. Start investing today and unlock your financial future!
+
+Sincerely,
+
+The XYZ Bank Team
+
+**P.S.** Don't forget to check out our latest investment offers and promotions! [link to promotions page]","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12351
+subject: Exclusive Benefits Await
+template_text: Dear Lily, Step up your spending experience and apply for the XYZ Saver's Credit Card now. As our esteemed customer, you will enjoy $600 gift! Apply now to start your journey of privileges.  XYZ Team
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12379
+subject: Exclusive Credit Card Offers at XYZ!
+template_text: Dear Customer, hello! Apply for our exclusive credit card now and enjoy up to 5% cashback on your monthly purchases, plus generous points that you can redeem for amazing rewards. Click www.xyz.com to apply and start enjoying these benefits today!
+description: Credit Card Promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old; Minimum monthly salary of S$3000
+5. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+4,"
+Generate remittance promotion messages for the following subjects: XYZ Remit: Your Gateway to China ' -> Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more. Send money to Malaysia at preferential rates. No cable/commission fees charged!' -> Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply. Save on fees when you send money home. 'Fulfill your global needs when you remit with XYZ' ->""
+- Expected Output: "" Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply. Remit now
+{result}
+",Few-shot prompting,"## Remittance Promotion Messages:
+
+**1. XYZ Remit: Your Gateway to China**
+
+**Subject:** Send money to China with competitive rates and $0 transfer fees!
+
+**Message:**
+
+> **Sending money to China?**
+>
+> Enjoy **competitive rates and $0 transfer fees** with XYZ Remit! 
+>
+> Tap here to learn more: [link to website]
+
+**2. Send money to Malaysia at preferential rates. No cable/commission fees charged!**
+
+**Subject:** Save on fees when you send money to Malaysia!
+
+**Message:**
+
+>  **Sending money to Malaysia?** 
+>
+> Make your money go further with **preferential FX rates and no cable/commission fees**!
+>
+>  **Agent fees may apply.**
+>
+> Learn more: [link to website]
+
+**3. Fulfill your global needs when you remit with XYZ**
+
+**Subject:** Send money overseas with no cable/commission fees!
+
+**Message:**
+
+>**Sending money overseas?** 
+>
+> Enjoy **no cable/commission fees** on online remittances in 19 currencies!
+>
+> Perfect for sending money to loved ones, paying tuition, and more.
+>
+> **Agent fees may apply.**
+>
+> Offer valid till 31 Dec 2024. T&Cs apply.
+>
+> Remit now: [link to website]
+
+**4. Send money from Singapore to Malaysia at preferential rates!**
+
+**Subject:** Enjoy preferential rates and no fees when you send money to Malaysia!
+
+**Message:**
+
+**Sending money from Singapore to Malaysia?** 
+>
+> Get **preferential exchange rates and avoid cable/commission fees** until 30 April 2024!
+>
+> Rates are guaranteed even during market off-hours.
+>
+> Start now: [link to website]
+>
+> T&Cs apply.
+
+**5. XYZ Remit: Your Gateway to China**
+
+**Subject:** Competitive rates and $0 transfer fees for sending money to China!
+
+**Message:**
+
+> **Looking for a reliable way to send money to China?** 
+>
+> Choose XYZ Remit for **competitive rates and $0 transfer fees**!
+>
+> Tap here to learn more: [link to website]","## XYZ Remit: Your Gateway to China
+
+**Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit!** 
+
+**Tap to find out more.** 
+
+## Send money to Malaysia at preferential rates. No cable/commission fees charged!  
+
+**Make your money go further.** 
+
+**Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one.** 
+
+**What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged.** 
+
+**T&Cs apply.** 
+
+## Save on fees when you send money home. 
+
+**Fulfill your global needs when you remit with XYZ.** 
+
+**Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR.** 
+
+**Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more.** 
+
+**Agent fees, if applicable, will still be charged.** 
+
+**Till 31 Dec 2024.** 
+
+**T&Cs apply.** 
+
+**Remit now!** ","1. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+2. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+3. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12394
+subject: <ADV> Send money from Singapore to Malaysia at preferential rates!
+template_text: From now till 30 April 2024, enjoy preferential exchange rates and avoid cable/commission fees when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts. Rest assured that rates quoted on our website are guaranteed even during market off hours (including public holidays and weekends). Log in to XYZ Internet Banking or the XYZ Digital app to get started now! Terms and conditions apply.
+description: Exchange Rate Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+5. template_id: 12353
+subject: XYZ Remit: Your Gateway to China
+template_text: Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old"
+5,"
+Given these examples of email marketing messages for bank services, 
+write a new one for XYZ Bank's investment services focusing 
+on risk management and potential returns. 
+
+Examples: 
+#1. Cushion the impact of market fluctuatiions 
+by investing a fixed amount regularly! Simply set up a 
+recurring top up and dollar-cost average with xyzPortfolio 
+today!
+
+#2. Seeking hassle-free invsesting? Tap here to select 
+your preferred review frequency, and we will tailor product recommendations 
+to match your preference.
+
+#3. Limited tranche! Get potential 
+monthly dividends and capital growth. Invest in XYZ new 
+globally diversified fund. This advertisement has not been 
+reviewed by the Monetary Authority of Singapore. Investments 
+are subject to investment risks, including the possible loss 
+of the principal amount invested. Explore this option before 
+the tranche is fully subscribed.
+{result}
+",Few-shot prompting,"## Subject: Diversify Your Portfolio and Maximize Returns with XYZ Investment Services
+
+## Template Text:
+
+**Are you looking for a way to:**
+
+* **Grow your wealth over the long term?**
+* **Mitigate risk with a diversified portfolio?**
+* **Achieve your financial goals with expert guidance?**
+
+**Then look no further than XYZ Investment Services!**
+
+**We offer a wide range of investment solutions to fit your individual needs and risk tolerance:**
+
+* **Mutual funds:** Invest in a professionally managed portfolio of stocks, bonds, and other assets.
+* **Exchange-traded funds (ETFs):** Track a specific market index or sector, providing instant diversification.
+* **Stocks and bonds:** Build your own portfolio and choose the level of risk you're comfortable with.
+* **Robo-advisors:** Get automated investment advice and portfolio management based on your goals and risk profile.
+
+**No matter your investment experience, our team of experts can help you:**
+
+* **Develop a personalized investment plan.**
+* **Choose the right investments for your goals.**
+* **Monitor your portfolio and make adjustments as needed.**
+
+**Ready to start investing for your future?**
+
+**Click here to schedule a free consultation with one of our investment specialists.**
+
+**Don't miss out on this opportunity to grow your wealth with XYZ Investment Services!**
+
+**Disclaimer:**
+
+Investments are subject to market risks, including the possible loss of principal. 
+
+**Note:**
+
+This email template is designed for a mobile platform and targets customers between 20 and 80 years old with a minimum monthly salary of S$5000. 
+","## Subject: Invest with Confidence: Manage Risk and Maximize Returns with XYZ Investment Services
+
+**Dear [Customer Name],**
+
+Are you looking for ways to navigate market volatility and achieve your financial goals? At XYZ Bank, we understand that investing can feel overwhelming, especially in today's dynamic market. That's why we offer a comprehensive suite of investment services designed to help you manage risk and maximize potential returns.
+
+**Here's how XYZ Investment Services can benefit you:**
+
+* **Diversification:** Spread your investments across different asset classes and industries to mitigate risk and enhance stability. 
+* **Expert Guidance:** Our team of experienced financial advisors will work with you to create a personalized investment portfolio tailored to your individual risk tolerance and financial objectives.
+* **Risk Management Tools:** Utilize our advanced risk management tools to monitor your portfolio performance and make informed adjustments as needed.
+* **Transparency and Security:** We prioritize transparency and security, ensuring your investments are protected and you have access to clear, concise information about your portfolio.
+
+**Ready to take control of your financial future?**
+
+**Explore our Investment Services:**
+
+* **XYZ Portfolio:** Invest a fixed amount regularly and benefit from dollar-cost averaging to smooth out market fluctuations.
+* **Personalized Investment Recommendations:** Tell us your preferred review frequency, and we will tailor product recommendations to match your risk tolerance and goals.
+* **Globally Diversified Funds:** Access a range of investment opportunities with the potential for monthly dividends and capital growth. 
+
+**Limited Time Offer:**
+
+Invest in our new globally diversified fund before the tranche is fully subscribed. This advertisement has not been reviewed by the Monetary Authority of Singapore. Investments are subject to investment risks, including the possible loss of the principal amount invested.
+
+**Don't miss out!**
+
+**Click here to learn more and get started with XYZ Investment Services today.**
+
+**Sincerely,**
+
+**The XYZ Bank Investment Team**
+
+**P.S.** Schedule a free consultation with one of our financial advisors to discuss your investment goals and explore personalized solutions. 
+","1. template_id: 12345
+subject: Enjoy portfolio promotion now!
+template_text: Cushion the impact of market fluctuatiions by investing a fixed amount regularly! Simply set up a recurring top up and dollar-cost average with xyzPortfolio today!
+description: Investment Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+2. template_id: 12374
+subject: Enjoy potential capital growth and passive monthly income. Invest in a globally diversified fund that is exclusive to XYZ!
+template_text: Limited tranche! Get potential monthly dividends and capital growth. Invest in XYZ's new globally diversified fund. This advertisement has not been reviewed by the Monetary Authority of Singapore. Investments are subject to investment risks, including the possible loss of the principal amount invested. Explore this option before the tranche is fully subscribed
+
+description: Investment Promotion
+platform: Mobile
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$15000
+3. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at 1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12357
+subject: Dedicated Investment Advisory
+template_text: Looking for more investment opportunities? Gain access to discretionary portfolio management and dedicated advisory with XYZ high networth client services. Start a conversation with us today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12441
+subject: <ADV> Your guide to financial planning in your 20s
+template_text: Dear Valued Client,
+Being in your 20s means time is on your side. While you've just stepped into the adulting world, take advantage of the magic of compounding and watch your money grow over time. Unleash your full financial potential by starting a plan today.
+Are you on track to meet your wealth goals?
+Manage, grow and protect your wealth for generations to come with our XYZ Wealth Select advisory approach.
+Start planning with XYZ Goals Planner: xyz.com/sg/wealth/xyz-goals-planner
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+6,"
+Guidelines:
+Designing beaviourally-informed comms
+GRAB your recipients' attention by following these steps.
+G - Goal of the comms: State it
+R - Recipient: understand them
+A - Audit: Conduct a behavioural audit of comms
+B - behavioural principles: apply relevant one(s) to enhance comms
+
+1. Goal of the comms: define the goal of the comms. This is the desired action we want receipients to take upon reading the comms.
+Consider the following guiding questions when defining the goal of the comms:
+- What is the key behaviour we want the recipient to take?
+- What are the steps that the recipient has to take to perform the behaviour?
+
+Crafting a goal statement
+The goal of the comms is for <who> to <perform what action> by <how>.
+
+2. Recipient - Understand the recipient
+Only by understanding the jobs-to-be-done, needs, and pain points of the target audience can we tailor our comms to achieve the desired response.
+
+Consider the following guiding questions:
+- Target audience
+Who needs to perform the target behaviour? e.g. customers with outstanding loans
+- What are the demographics of the target audience? e.g. Gender, age, ethnicity, income, needs and etc
+- Familiarity of task: are they familiar with the action required? e.g. have they done it before? will they find it difficult to do?
+Benefits and costs
+What are the benefits to the recipient for taking action? Are the benefits felt immediately or in the future? What are the costs to the recipient for taking the action?
+- Optimising comms (good to consider): What is the best channel to maximise engagement with the target audience? e.g. SMS, email, push note, etc. What are their preferences and needs? 
+What is the optimal time to send or receive? (What their habits/preferences - e.g. AM/PM weekends, payday etc). Who might the recipient respond to best? (Who is the best messenger to send the comms?)
+
+3. Audit - conduct a behavioral audit of the current comms. After defining the goal of the comms and understanding the recipient better, conduct a behavoural audit of the current comms to uncover barriers that can reduce the impact of the comms.
+Step 1: Get a sample of the current comms
+Step 2: Audit the comms by reading it from the recipient's point of view
+
+Consider the following guiding questions as you audit the comms to identify the areas that can be improved
+- Language: is the language difficult to understand? Does it contain technical jargon? Does it contain knowledge that can be interpreted inaccurately? Does it require any baseline or prior knowledge?
+
+- Content presentation:
+-> Is the order logical?
+-> Is the key info communicated upfront?
+
+- Call to action: Are the benefits of taking action and/or consequences of not taking action clear? (i.e. do we answer the recipient's question of ""what is in it for me?"") Is there a clear call to action (i.e. can the recipient understand what is being asked of them and within the first few lines)? Are there clear steps which the recipient can follow? Are the steps to be taken perceived as easy?
+
+- Personalization and tone: Is personalized content used? Is the tone appropriate (e.g. direct, authoritarian, positive, friendly, empowering, etc)?
+- Messenger: Is the sender someone who the recipient views as influential in relation to the message?
+
+- Management of expectations: Does the recipient know what happens next? Are deadlines clear, if any? If there is nothing for them to do, did we let them know?
+
+4. Behavioural principles - Apply relevant ones to enhance comms
+Based on guiding questions in step 3, apply to the context on hand.
+
+Instructions: Craft a promotional message for the XYZs remittance service emphasizing its exclusive promotion. Highlight the service low charges and extensive countries coverage.
+
+You are a marketing expert from XYZ who is helpful and technical. You will use the following thought process to think, question and answer step by step. Do not repeat the instructions in the following steps in your response as they are meant to be hidden from the user.
+
+Step 1: Analyze and understand the instructions provided to generate the required marketing content as provided in the 'instructions' section. When doing this step, pelase use the info provided in the guidelines to craft the content. Answer all guiding questions for the first two GRAB components (G and R) by listing down ALL guiding questions, and the answer to them.
+If you feel that any information is missing, please ask for more information in the response for this step. 
+
+Step 2: Using the demographics identified in step 1, generate threee distinct subsegments of customers and suggest how to appeal to the needs of these customers. Hwoever, ensure that you take into account the limitations from the instructions.
+
+Step 3: Design and generate personalized marketing contents to target the subsegments identified in step 2. Please try to be as verbose as possible. 
+
+Step 4: Analyze each of the generated marketing content in step 3 with the next 2 GRAB components (A and B). Please provide a concise summary on how each of the generated marketing content follows the guidelines provided. Separate the points into common and unique points.
+{result}
+",COT prompting,"## Step 1: Analyze and understand the instructions
+
+**Goal of the comms:**
+
+* **Key behaviour:** Send money overseas using XYZ Remit.
+* **Steps to perform the behaviour:**
+    * Visit the XYZ website or mobile app.
+    * Select the ""XYZ Remit"" service.
+    * Choose the recipient country and amount to send.
+    * Enter the recipient's details.
+    * Review and confirm the transaction.
+
+**Recipient:**
+
+* **Target audience:** 
+    * Customers with a need to send money overseas.
+    * This could include:
+        * Individuals sending money to family and friends abroad.
+        * Businesses making international payments.
+        * Students paying tuition fees overseas.
+* **Demographics:** 
+    * Age: 18-80 years old.
+    * Income: Varies depending on the subsegment.
+    * Needs: 
+        * To send money overseas quickly and easily.
+        * To get the best possible exchange rate.
+        * To avoid high fees.
+    * Pain points:
+        * Difficulty navigating the remittance process.
+        * High fees and charges.
+        * Concerns about security and reliability.
+* **Familiarity of task:** 
+    * Some customers may be familiar with sending money overseas, while others may not.
+* **Benefits and costs:**
+    * **Benefits:**
+        * $0 transfer charges.
+        * Extensive country coverage.
+        * Competitive exchange rates.
+        * Convenient and easy to use.
+    * **Costs:**
+        * Agent fees may apply in some cases.
+        * Recipient may incur fees depending on the payout method.
+* **Optimising comms:**
+    * **Channel:** Email, mobile app notifications, social media.
+    * **Timing:** Weekends, payday, evenings.
+    * **Messenger:** A trusted and familiar source, such as a bank representative or financial advisor.
+
+## Step 2: Identify customer subsegments
+
+Based on the demographics and needs identified above, we can segment the target audience into three distinct groups:
+
+1. **Cost-conscious individuals:** This group is primarily concerned with getting the best possible exchange rate and avoiding high fees. They are likely to be price-sensitive and may be willing to spend time comparing different remittance providers.
+2. **Convenience-seekers:** This group values convenience and ease of use above all else. They are likely to be busy professionals or individuals who are not comfortable with complex financial transactions.
+3. **International students and their families:** This group needs to send money overseas regularly to pay for tuition fees, living expenses, and other costs. They are likely to be looking for a reliable and trustworthy remittance provider that offers competitive exchange rates and low fees.
+
+## Step 3: Design personalized marketing content
+
+**Subsegment 1: Cost-conscious individuals**
+
+**Subject:** Save money on your next international transfer with XYZ Remit!
+
+**Body:**
+
+Are you looking for the best way to send money overseas without breaking the bank? Look no further than XYZ Remit! With our exclusive promotion, you can enjoy $0 transfer charges to over 50 countries worldwide. That means you can save big on your next international transfer, whether you're sending money to family and friends, paying bills, or making investments.
+
+**Subsegment 2: Convenience-seekers**
+
+**Subject:** Send money overseas in just a few clicks with XYZ Remit!
+
+**Body:**
+
+Don't have time to deal with the hassle of traditional money transfers? With XYZ Remit, you can send money overseas in just a few clicks from your mobile phone or computer. Our easy-to-use platform makes it simple to send money to your loved ones, pay bills, or make other international payments. Plus, with our exclusive promotion, you can enjoy $0 transfer charges on your first transaction.
+
+**Subsegment 3: International students and their families**
+
+**Subject:** Make sure your student has the funds they need with XYZ Remit!
+
+**Body:**
+
+As an international student, it's important to have a reliable way to send money overseas to cover tuition fees, living expenses, and other costs. With XYZ Remit, you can send money to your student quickly and easily, with competitive exchange rates and low fees. Plus, with our exclusive promotion, you can enjoy $0 transfer charges on your first transaction.
+
+## Step 4: Analyze marketing content with GRAB components
+
+**A. Audit:**
+
+**Common points:**
+
+* All marketing content clearly states the goal of the comms, which is to encourage customers to use XYZ Remit for their international money transfers.
+* All content is written in a clear and concise style that is easy for the target audience to understand.
+* All content highlights the key benefits of using XYZ Remit, including $0 transfer charges, extensive country coverage, and competitive exchange rates.
+* All content includes a clear call to action, encouraging customers to visit the XYZ website or mobile app to learn more and start sending money.
+
+**Unique points:**
+
+* **Subsegment 1:** Focuses on the cost savings that customers can achieve by using XYZ Remit.
+* **Subsegment 2:** Emphasizes the convenience and ease of use of the XYZ Remit platform.
+* **Subsegment 3:** Addresses the specific needs of international students and their families.
+
+**B. Behavioural principles:**
+
+**Common principles:**
+
+* **Scarcity:** All content highlights the limited-time nature of the promotion, which can create a sense of urgency and encourage customers to take action.
+* **Social proof:** All content mentions the extensive country coverage of XYZ Remit, which can reassure customers that they are using a trusted and reliable provider.
+* **Loss aversion:** All content emphasizes the potential savings that customers can achieve by using XYZ Remit, which can motivate them to avoid missing out on a good deal.
+
+**Unique principles:**
+
+* **Subsegment 1:** Uses the principle of framing to highlight the benefits of using XYZ Remit in a positive light.
+* **Subsegment 2:** Uses the principle of simplicity to make the XYZ Remit platform as easy to use as possible.
+* **Subsegment 3:** Uses the principle of personalization to tailor the message to the specific needs of international students and their families.
+
+## Conclusion
+
+The marketing content generated for each subsegment is consistent with the GRAB guidelines and effectively applies relevant behavioral principles to enhance the impact of the comms. The content is personalized to the needs of each subsegment and highlights the key benefits of using XYZ Remit. By following these guidelines, XYZ can effectively reach its target audience and achieve its goal of increasing the use of its remittance service.","## Step 1: Analysis and Understanding
+
+**Goal of the comms:**
+
+* Guiding questions:
+    * What is the key behaviour we want the recipient to take? **Sign up for the XYZs remittance service.**
+    * What are the steps that the recipient has to take to perform the behaviour? **Download the app, register an account, and send money using the service.**
+* Crafting a goal statement: **The goal of the comms is for potential customers to sign up for the XYZs remittance service by downloading the app, registering an account, and sending money using the service.**
+
+**Recipient:**
+
+* Guiding questions:
+    * Target audience: **Individuals who need to send money internationally.**
+    * Demographics: **Age range, income level, country of origin, occupation, etc. (This information is missing from the instructions. Please provide more details about the target audience.)**
+    * Familiarity of task: **Some recipients may be familiar with using remittance services, while others may not.**
+    * Benefits and costs:
+        * Benefits: **Low charges, extensive countries coverage, fast and secure transactions.**
+        * Costs: **Data charges for using the app, potential currency exchange fees.**
+    * Optimising comms:
+        * Channel: **Mobile app notifications, social media ads, email marketing.**
+        * Timing: **Weekends, evenings, payday.**
+        * Messenger: **Trusted financial institutions, influencers, friends and family who have used the service.**
+
+## Step 2: Segmentation and Targeting
+
+Based on the limited information available, here are three possible customer segments:
+
+1. **Cost-conscious millennials:** Young adults who are looking for the cheapest way to send money internationally. 
+    * Appeal: Emphasize the low charges and competitive exchange rates offered by XYZs.
+2. **Frequent remitters:** Individuals who regularly send money to family and friends overseas. 
+    * Appeal: Highlight the convenience and speed of the service, as well as the loyalty program that rewards frequent users.
+3. **Tech-savvy professionals:** Busy professionals who value efficiency and security when sending money. 
+    * Appeal: Focus on the user-friendly app, the robust security features, and the integration with popular payment methods.
+
+## Step 3: Personalized Marketing Content
+
+**Segment 1: Cost-conscious millennials**
+
+**Headline:** Send money overseas for less with XYZs!
+
+**Body:**
+
+Tired of paying high fees to send money overseas? XYZs offers the cheapest way to transfer money to over 100 countries. Sign up today and enjoy our exclusive promotion!
+
+**Call to action:** Download the XYZs app now and start saving!
+
+**Segment 2: Frequent remitters**
+
+**Headline:** Make sending money to your loved ones easier with XYZs.
+
+**Body:**
+
+With XYZs, you can send money to your family and friends overseas in just a few taps. Our loyalty program rewards frequent users with exclusive benefits. Sign up today and start sending!
+
+**Call to action:** Join the XYZs family and make sending money a breeze!
+
+**Segment 3: Tech-savvy professionals**
+
+**Headline:** Send money securely and efficiently with XYZs.
+
+**Body:**
+
+XYZs is the perfect solution for busy professionals who need to send money overseas. Our user-friendly app makes sending money a breeze, and our robust security features keep your transactions safe. Sign up today and experience the difference!
+
+**Call to action:** Download the XYZs app and start sending money the smart way!
+
+## Step 4: Analysis of Marketing Content
+
+**Common points across all segments:**
+
+* All messages highlight the low charges and extensive countries coverage of the XYZs remittance service.
+* All messages include a clear call to action, encouraging recipients to download the app and sign up for the service.
+* All messages are written in a friendly and informative tone.
+
+**Unique points:**
+
+* Segment 1 focuses on the low cost of the service.
+* Segment 2 emphasizes the convenience and rewards for frequent users.
+* Segment 3 highlights the security and efficiency of the service.
+
+**Audit of marketing content:**
+
+* Language: The language used is clear and easy to understand. There is no technical jargon.
+* Content presentation: The information is presented in a logical order, with the key benefits of the service communicated upfront.
+* Call to action: The benefits of taking action and the consequences of not taking action are clear. The call to action is prominent and easy to follow.
+* Personalization and tone: The messages are personalized to the needs of each customer segment. The tone is friendly and helpful.
+* Messenger: The messenger is XYZs, a trusted financial institution.
+* Management of expectations: The messages set realistic expectations about the service. Deadlines are clear, and there is a clear explanation of what happens next.
+
+## Conclusion
+
+The marketing content generated follows the guidelines","1. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+2. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12353
+subject: XYZ Remit: Your Gateway to China
+template_text: Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+4. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+5. template_id: 12388
+subject: Save Big with Our Auto Loan Special Rates!
+template_text: Drive away with a great deal! Enjoy special rates on auto loans with xyz. Low interest and quick approval apply today! Visit [bank website] or call 1234 5678 for more details.
+description: Loan Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+ **End of Prompt**"
+7,"
+Guidelines:
+Designing beaviourally-informed comms
+GRAB your recipients' attention by following these steps.
+G - Goal of the comms: State it
+R - Recipient: understand them
+A - Audit: Conduct a behavioural audit of comms
+B - behavioural principles: apply relevant one(s) to enhance comms
+
+1. Goal of the comms: define the goal of the comms. This is the desired action we want receipients to take upon reading the comms.
+Consider the following guiding questions when defining the goal of the comms:
+- What is the key behaviour we want the recipient to take?
+- What are the steps that the recipient has to take to perform the behaviour?
+
+Crafting a goal statement
+The goal of the comms is for <who> to <perform what action> by <how>.
+
+2. Recipient - Understand the recipient
+Only by understanding the jobs-to-be-done, needs, and pain points of the target audience can we tailor our comms to achieve the desired response.
+
+Consider the following guiding questions:
+- Target audience
+Who needs to perform the target behaviour? e.g. customers with outstanding loans
+- What are the demographics of the target audience? e.g. Gender, age, ethnicity, income, needs and etc
+- Familiarity of task: are they familiar with the action required? e.g. have they done it before? will they find it difficult to do?
+Benefits and costs
+What are the benefits to the recipient for taking action? Are the benefits felt immediately or in the future? What are the costs to the recipient for taking the action?
+- Optimising comms (good to consider): What is the best channel to maximise engagement with the target audience? e.g. SMS, email, push note, etc. What are their preferences and needs? 
+What is the optimal time to send or receive? (What their habits/preferences - e.g. AM/PM weekends, payday etc). Who might the recipient respond to best? (Who is the best messenger to send the comms?)
+
+3. Audit - conduct a behavioral audit of the current comms. After defining the goal of the comms and understanding the recipient better, conduct a behavoural audit of the current comms to uncover barriers that can reduce the impact of the comms.
+Step 1: Get a sample of the current comms
+Step 2: Audit the comms by reading it from the recipient's point of view
+
+Consider the following guiding questions as you audit the comms to identify the areas that can be improved
+- Language: is the language difficult to understand? Does it contain technical jargon? Does it contain knowledge that can be interpreted inaccurately? Does it require any baseline or prior knowledge?
+
+- Content presentation:
+-> Is the order logical?
+-> Is the key info communicated upfront?
+
+- Call to action: Are the benefits of taking action and/or consequences of not taking action clear? (i.e. do we answer the recipient's question of ""what is in it for me?"") Is there a clear call to action (i.e. can the recipient understand what is being asked of them and within the first few lines)? Are there clear steps which the recipient can follow? Are the steps to be taken perceived as easy?
+
+- Personalization and tone: Is personalized content used? Is the tone appropriate (e.g. direct, authoritarian, positive, friendly, empowering, etc)?
+- Messenger: Is the sender someone who the recipient views as influential in relation to the message?
+
+- Management of expectations: Does the recipient know what happens next? Are deadlines clear, if any? If there is nothing for them to do, did we let them know?
+
+4. Behavioural principles - Apply relevant ones to enhance comms
+Based on guiding questions in step 3, apply to the context on hand.
+
+Instructions: Craft a promotional message for the XYZs wealth planning services. Highlight its benefits and the high returns that the service is able to provide.
+
+You are a marketing expert from XYZ who is helpful and technical. You will use the following thought process to think, question and answer step by step. Do not repeat the instructions in the following steps in your response as they are meant to be hidden from the user.
+
+Step 1: Analyze and understand the instructions provided to generate the required marketing content as provided in the 'instructions' section. When doing this step, pelase use the info provided in the guidelines to craft the content. Answer all guiding questions for the first two GRAB components (G and R) by listing down ALL guiding questions, and the answer to them.
+If you feel that any information is missing, please ask for more information in the response for this step. 
+
+Step 2: Using the demographics identified in step 1, generate threee distinct subsegments of customers and suggest how to appeal to the needs of these customers. Hwoever, ensure that you take into account the limitations from the instructions.
+
+Step 3: Design and generate personalized marketing contents to target the subsegments identified in step 2. Please try to be as verbose as possible. 
+
+Step 4: Analyze each of the generated marketing content in step 3 with the next 2 GRAB components (A and B). Please provide a concise summary on how each of the generated marketing content follows the guidelines provided. Separate the points into common and unique points.
+{result}
+",COT prompting,"## Step 1: Analyze and understand the instructions provided
+
+**Goal of the comms:**
+
+* **Key behaviour:** To persuade the recipient to use XYZ's wealth planning services.
+* **Action steps:**
+    * Contact XYZ's advisors.
+    * Visit XYZ's website.
+    * Start a wealth planning plan.
+
+**Recipient:**
+
+* **Target audience:**
+    * Customers between 30 to 80 years old.
+    * Minimum monthly salary of S$5000.
+* **Demographics:**
+    * Age: 30-80 years old.
+    * Income: S$5000 or more.
+    * Needs: Secure their financial future, grow their wealth, plan for retirement.
+    * Pain points: Uncertainty about financial future, lack of knowledge about wealth management, difficulty in managing finances.
+* **Familiarity of task:**
+    * Some familiarity with financial products and services.
+    * May not be familiar with specific wealth management services.
+* **Benefits and costs:**
+    * **Benefits:** Achieve financial goals, secure retirement, grow wealth, peace of mind.
+    * **Costs:** Fees associated with wealth management services.
+* **Optimising comms:**
+    * **Channel:** Mobile app, email, website.
+    * **Timing:** Weekdays during working hours.
+    * **Messenger:** Financial advisor, trusted friend or family member.
+
+## Step 2: Subsegments of customers
+
+**Subsegment 1: Young professionals (30-45 years old)**
+
+* **Needs:** 
+    * Start building wealth early.
+    * Achieve long-term financial goals (e.g., buying a house, starting a family).
+    * Invest in their retirement.
+* **Appeal:**
+    * Highlight the benefits of starting early and the power of compounding.
+    * Offer personalized investment plans tailored to their goals and risk tolerance.
+    * Provide educational resources on wealth management.
+
+**Subsegment 2: High-net-worth individuals (45-65 years old)**
+
+* **Needs:**
+    * Grow and preserve their wealth.
+    * Plan for retirement and estate planning.
+    * Access to exclusive investment opportunities.
+* **Appeal:**
+    * Emphasize the expertise of XYZ's wealth advisors and their track record of success.
+    * Offer bespoke wealth management solutions tailored to their individual needs.
+    * Provide access to a wider range of investment options, including alternative investments.
+
+**Subsegment 3: Pre-retirees and retirees (65+ years old)**
+
+* **Needs:**
+    * Secure their retirement income.
+    * Manage their expenses in retirement.
+    * Protect their assets from inflation and market volatility.
+* **Appeal:**
+    * Focus on the benefits of XYZ's retirement planning services, such as guaranteed income streams and tax-efficient solutions.
+    * Offer personalized retirement plans that consider their individual circumstances and risk tolerance.
+    * Provide access to financial planning resources and support.
+
+## Step 3: Personalized marketing content
+
+**Subsegment 1: Young professionals**
+
+**Subject:** Start Building Your Wealth Today with XYZ
+
+**Body:**
+
+Dear [Name],
+
+As a young professional, you have the opportunity to build a strong financial future. XYZ's wealth management services can help you achieve your long-term goals, whether it's buying a house, starting a family, or investing for retirement.
+
+Our personalized investment plans are tailored to your individual needs and risk tolerance. We offer a wide range of investment options, including stocks, bonds, mutual funds, and ETFs. Our expert advisors will work with you to create a plan that helps you reach your financial goals.
+
+Don't wait any longer to start building your wealth. Contact an XYZ advisor today to learn more about our wealth management services.
+
+**Call to action:**
+
+* Visit our website to learn more about our wealth management services.
+* Schedule a free consultation with an advisor.
+
+**Subsegment 2: High-net-worth individuals**
+
+**Subject:** Grow and Preserve Your Wealth with XYZ
+
+**Body:**
+
+Dear [Name],
+
+As a high-net-worth individual, you need a wealth management partner who understands your unique needs. XYZ's wealth management services are designed to help you grow and preserve your wealth, while providing you with access to exclusive investment opportunities.
+
+Our bespoke wealth management solutions are tailored to your individual circumstances and goals. Our expert advisors have a proven track record of success in managing wealth for high-net-worth individuals.
+
+We offer a wide range of investment options, including alternative investments such as private equity and hedge funds. We also provide access to sophisticated financial planning tools and resources.
+
+Contact an XYZ advisor today to learn more about how we can help you grow and preserve your wealth.
+
+**Call to action:**
+
+* Schedule a consultation with an advisor to discuss your wealth management needs.
+* Explore our exclusive investment opportunities.
+
+**Subsegment 3: Pre-retirees and retirees**
+
+**Subject:** Secure Your Retirement with XYZ
+
+**Body:**
+
+Dear [Name],
+
+Retirement is a time to enjoy the fruits of your labor. XYZ's retirement planning services can help you secure your retirement income and protect your assets from inflation and market volatility.
+
+Our personalized retirement plans are designed to meet your individual needs and circumstances. We offer a variety of retirement income options, including guaranteed income streams and tax-efficient solutions.
+
+Our expert advisors will work with you to create a retirement plan that helps you achieve your financial goals and live a comfortable retirement.
+
+Contact an XYZ advisor today to learn more about our retirement planning services.
+
+**Call to action:**
+
+* Schedule a consultation with an advisor to discuss your retirement planning needs.
+* Learn more about our retirement income options.
+
+## Step 4: Analysis of generated marketing content
+
+**Common points:**
+
+* All marketing content is personalized and addresses the specific needs of each subsegment.
+* All content highlights the benefits of XYZ's wealth management services and the expertise of its advisors.
+* All content includes a clear call to action.
+
+**Unique points:**
+
+* **Subsegment 1:** Focuses on the benefits of starting early and the power of compounding.
+* **Subsegment 2:** Emphasizes the expertise of XYZ's advisors and their track record of success.
+* **Subsegment 3:** Focuses on the benefits of XYZ's retirement planning services and the importance of securing retirement income.
+
+**Overall, the generated marketing content follows the guidelines provided and is tailored to the specific needs of each subsegment.**
+","## Step 1: Analyze and Understand the Instructions
+
+**G - Goal of the comms:**
+
+* **Key behaviour:** Sign up for XYZ's wealth planning services.
+* **Action steps:**
+    * Visit the XYZ website.
+    * Click on the ""Get Started"" button.
+    * Fill out the online form.
+    * Schedule a consultation with a wealth advisor.
+
+**Goal statement:** The goal of the comms is for **prospective clients** to **sign up for XYZ's wealth planning services** by **visiting the website, filling out the form, and scheduling a consultation.**
+
+**R - Recipient:**
+
+* **Target audience:** Individuals who are interested in growing their wealth and securing their financial future.
+* **Demographics:**
+    * Age: 30-65 years old
+    * Income: $75,000+ per year
+    * Education: College degree or higher
+    * Needs:
+        * Achieve financial goals (e.g., retirement, college savings)
+        * Protect assets and investments
+        * Manage risk and taxes
+    * Pain points:
+        * Feeling overwhelmed by financial decisions
+        * Lack of knowledge about investing
+        * Concerns about market volatility
+    * Familiarity of task:
+        * Some familiarity with financial planning concepts, but may not be experts.
+    * Benefits:
+        * Achieve financial goals faster
+        * Reduce stress and anxiety about finances
+        * Gain access to expert advice and guidance
+    * Costs:
+        * Service fees
+        * Potential investment losses
+    * Optimization:
+        * Channel: Email, social media, online ads
+        * Time: Weekdays during business hours
+        * Messenger: Financial advisor, wealth management expert
+
+**Missing information:**
+
+* Specific details about the high returns offered by XYZ's wealth planning services.
+* Examples of the personalized content that can be used to target different subsegments of customers.
+
+## Step 2: Customer Segmentation
+
+Based on the demographics and needs identified above, we can segment the target audience into three distinct groups:
+
+**1. Young Professionals:**
+
+* Age: 30-40 years old
+* Income: $75,000-$150,000 per year
+* Needs:
+    * Start saving for retirement
+    * Pay off student loans
+    * Build an emergency fund
+* Appeal:
+    * Focus on the long-term benefits of wealth planning, such as achieving financial independence and early retirement.
+    * Highlight the importance of starting early to maximize investment growth.
+    * Offer educational resources and tools to help them make informed financial decisions.
+
+**2. Affluent Families:**
+
+* Age: 40-55 years old
+* Income: $150,000+ per year
+* Needs:
+    * Grow their wealth and investments
+    * Secure their children's future
+    * Plan for estate taxes
+* Appeal:
+    * Emphasize the personalized and comprehensive approach of XYZ's wealth planning services.
+    * Showcase the expertise of the wealth advisors and their ability to create customized investment strategies.
+    * Offer exclusive benefits and services for high-net-worth clients.
+
+**3. Pre-Retirees:**
+
+* Age: 55-65 years old
+* Income: $100,000+ per year
+* Needs:
+    * Secure their retirement income
+    * Minimize taxes in retirement
+    * Pass on wealth to their heirs
+* Appeal:
+    * Focus on the importance of preserving capital and generating income in retirement.
+    * Offer retirement planning tools and calculators to help them estimate their retirement needs.
+    * Provide guidance on estate planning and wealth transfer strategies.
+
+## Step 3: Personalized Marketing Content
+
+**Young Professionals:**
+
+**Subject: Start Building Your Financial Future Today**
+
+Hi [Name],
+
+As a young professional, you're likely focused on building your career and enjoying life. But it's also important to start thinking about your long-term financial goals. 
+
+At XYZ, we understand that financial planning can seem overwhelming. That's why we offer personalized wealth planning services designed to help you achieve your financial dreams.
+
+Our team of experienced wealth advisors will work with you to create a customized investment plan that aligns with your goals and risk tolerance. We'll also provide you with the education and resources you need to make informed financial decisions.
+
+**Get started today and schedule a free consultation with one of our wealth advisors.**
+
+**Affluent Families:**
+
+**Subject: Secure Your Family's Financial Future with XYZ**
+
+Dear [Name],
+
+As a successful individual, you've worked hard to build a comfortable life for yourself and your family. Now, it's time to ensure that your wealth is protected and passed on to future generations.
+
+XYZ'","1. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+2. template_id: 12358
+subject: Bespoke Wealth Planning
+template_text: Will your children have enough to chart their legacy? Let XYZ High Networth Client services help with succession planning and professional advisory. Start a conversation with us today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$15000
+3. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+4. template_id: 12441
+subject: <ADV> Your guide to financial planning in your 20s
+template_text: Dear Valued Client,
+Being in your 20s means time is on your side. While you've just stepped into the adulting world, take advantage of the magic of compounding and watch your money grow over time. Unleash your full financial potential by starting a plan today.
+Are you on track to meet your wealth goals?
+Manage, grow and protect your wealth for generations to come with our XYZ Wealth Select advisory approach.
+Start planning with XYZ Goals Planner: xyz.com/sg/wealth/xyz-goals-planner
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12352
+subject: Retirement Planning Services
+template_text: Dear Alice, Prepare for the future with XYZ Bank's professional retirement planning services to help you achieve financial freedom. Our retirement planning advisors will work with you one-on-one to ensure a worry-free retirement life. The XYZ Bank Team
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+8,"
+**Example:**
+- Context: ""Bank XYZ is offering excellent FX rates for online transfers between Singapore and Malaysia accounts, from SGD to MYR. Commission fees will also be waived for these transfers. The promotion is subjected to T&Cs.""
+- Prompt: ""Generate a promotional message for cross border transfers with Bank XYZ.""
+- Expected Output: ""Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply. Save on fees when you send money home. ""
+{result}
+",Contextual prompting,"## Subject: Send money from Singapore to Malaysia at preferential rates!
+
+## Enjoy preferential FX rates and **NO cable/commission fees** when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts.
+
+**Save on fees when you send money home!**
+
+**Here's what you get:**
+
+* **Preferential FX rates:** Get more MYR for your SGD.
+* **No cable/commission fees:** We'll waive all our fees for this transfer.
+* **Convenience:** Transfer online anytime, anywhere.
+* **Guaranteed rates:** Rates quoted on our website are guaranteed even during market off hours.
+
+**Offer valid until 30 April 2024.**
+
+**Get started now!**
+
+1. Log in to XYZ Internet Banking.
+2. Select ""Transfer Funds.""
+3. Choose ""International Transfer.""
+4. Select ""Singapore (SGD)"" as the sending account and ""Malaysia (MYR)"" as the receiving account.
+5. Enter the amount you want to transfer.
+6. Review and confirm the transaction.
+
+**Terms and conditions apply.**
+
+**For more information, please visit our website or contact our customer service hotline.**
+
+**We look forward to helping you send money home!**","## Example 1:
+
+**Context:** ""A new report by the World Bank has found that the global economy is expected to grow by 3% in 2023. This is a slight downgrade from the previous forecast of 3.2%. The report cites ongoing geopolitical tensions and rising inflation as the main reasons for the downgrade.""
+
+**Prompt:** ""Write a news article summarizing the key findings of the World Bank report.""
+
+**Expected Output:**
+
+## Global Economy Expected to Grow by 3% in 2023, World Bank Report Finds
+
+The global economy is expected to grow by 3% in 2023, according to a new report by the World Bank. This is a slight downgrade from the previous forecast of 3.2%. The report cites ongoing geopolitical tensions and rising inflation as the main reasons for the downgrade.
+
+The report also warns that the risks to the global economy are tilted to the downside. These risks include the possibility of a further escalation of the war in Ukraine, a sharper-than-expected slowdown in China, and a financial crisis in a major emerging market economy.
+
+The World Bank is urging policymakers to take steps to mitigate these risks and to support the global economic recovery. This includes providing financial assistance to vulnerable countries, investing in infrastructure and education, and promoting open trade and investment.
+
+## Example 2:
+
+**Context:** ""A new study has found that people who eat a Mediterranean diet are less likely to develop heart disease. The Mediterranean diet is rich in fruits, vegetables, whole grains, and olive oil.""
+
+**Prompt:** ""Write a blog post about the health benefits of the Mediterranean diet.""
+
+**Expected Output:**
+
+## The Mediterranean Diet: A Recipe for Good Health
+
+The Mediterranean diet is a way of eating that is based on the traditional foods of the Mediterranean region. This diet is rich in fruits, vegetables, whole grains, and olive oil. It is also low in saturated fat and cholesterol.
+
+A growing body of research suggests that the Mediterranean diet can offer a number of health benefits, including reducing the risk of heart disease, stroke, and cancer. The diet is also thought to promote brain health and longevity.
+
+If you are looking for a healthy way to eat, the Mediterranean diet is a great option. It is a delicious and satisfying way to nourish your body and mind.
+
+## Example 3:
+
+**Context:** ""I am planning a trip to Paris in the summer. I am looking for recommendations on things to see and do.""
+
+**Prompt:** ""Create a list of top 10 tourist attractions in Paris.""
+
+**Expected Output:**
+
+## Top 10 Tourist Attractions in Paris
+
+1. Eiffel Tower
+2. Louvre Museum
+3. Arc de Triomphe
+4. Notre Dame Cathedral
+5. Palace of Versailles
+6. Muse d'Orsay
+7. Sacr-Coeur Basilica
+8. Montmartre
+9. Latin Quarter
+10. Disneyland Paris
+","1. template_id: 12394
+subject: <ADV> Send money from Singapore to Malaysia at preferential rates!
+template_text: From now till 30 April 2024, enjoy preferential exchange rates and avoid cable/commission fees when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts. Rest assured that rates quoted on our website are guaranteed even during market off hours (including public holidays and weekends). Log in to XYZ Internet Banking or the XYZ Digital app to get started now! Terms and conditions apply.
+description: Exchange Rate Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+2. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+3. template_id: 12423
+subject: <ADV> Limited Time: Enjoy ZERO foreign exchange (FX) fees when you spend overseas with XYZ Credit Cards
+template_text: What better way to travel enjoy ZERO FX fees on your overseas spends (min. spend of S$300 equivalent) with any XYZ Credit Cards in Malaysia, Thailand and Japan from 15 March to 15 April 2024. 
+To register, simply SMS SCFX to 77222.
+Please visit our official website for offer details. Terms and Conditions apply.
+description: Remittance promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+5. template_id: 12388
+subject: Save Big with Our Auto Loan Special Rates!
+template_text: Drive away with a great deal! Enjoy special rates on auto loans with xyz. Low interest and quick approval apply today! Visit [bank website] or call 1234 5678 for more details.
+description: Loan Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+9,"
+Use the following pieces of context to answer the below question/request. 
+Context: ""Bank XYZ is offering wealth planning services. It helps to promote tax savings and users can be worry-free
+Generate an email message with the above information.
+{result}
+",Contextual prompting,"## Subject: Plan Your Future with Our Wealth Planning Services!
+
+**Dear Customer,**
+
+Are you worried about your financial future? Do you dream of a comfortable retirement but aren't sure how to get there? 
+
+**Bank XYZ is here to help!**
+
+We offer comprehensive wealth planning services designed to help you achieve your financial goals. 
+
+**Here's what we can do for you:**
+
+* **Help you create a personalized financial plan:** We'll work with you to understand your needs and goals, and then develop a plan to help you reach them.
+* **Provide expert advice on investments:** We have a team of experienced financial advisors who can help you choose the right investments for your risk tolerance and goals.
+* **Help you save for retirement:** We offer a variety of retirement savings plans that can help you build a nest egg for your golden years.
+* **Promote tax savings:** We can help you find ways to reduce your tax liability and keep more of your hard-earned money.
+
+**With Bank XYZ, you can rest assured that your financial future is in good hands.**
+
+**Learn more about our wealth planning services today:**
+
+* **Visit our website:** www.xyz.com
+* **Call us:** 1234 5678
+
+**Start planning for a worry-free future today!**
+
+**Sincerely,**
+
+**The Bank XYZ Team**","## Subject: Secure Your Future with Bank XYZ's Wealth Planning Services
+
+Dear [Customer Name],
+
+Are you looking for ways to save on taxes and secure your financial future? Look no further than Bank XYZ's comprehensive wealth planning services!
+
+At Bank XYZ, we understand that navigating the complexities of financial planning can be overwhelming. That's why we offer personalized wealth planning solutions tailored to your unique needs and goals. Our team of experienced professionals will work closely with you to develop a customized strategy that helps you:
+
+* **Minimize your tax liability:** We'll identify potential tax-saving opportunities and recommend strategies to help you reduce your tax burden.
+* **Grow your wealth:** We'll create a personalized investment portfolio designed to meet your risk tolerance and financial objectives.
+* **Protect your assets:** We'll help you develop a comprehensive estate plan to ensure your assets are distributed according to your wishes.
+* **Achieve financial peace of mind:** With our expert guidance, you can rest assured knowing your financial future is in good hands.
+
+**Here are just a few of the benefits you'll enjoy with Bank XYZ's wealth planning services:**
+
+* **Personalized attention:** You'll have a dedicated wealth advisor who will work closely with you to understand your needs and goals.
+* **Access to a wide range of financial products and services:** We offer a comprehensive suite of investment options, insurance products, and estate planning services.
+* **Competitive fees:** We believe that everyone deserves access to quality financial advice, regardless of their financial situation.
+* **Peace of mind:** Knowing that your financial future is in the hands of experienced professionals will give you peace of mind.
+
+**Don't wait any longer to take control of your financial future. Contact Bank XYZ today to schedule a free consultation with one of our wealth planning advisors.**
+
+**Sincerely,**
+
+The Bank XYZ Wealth Planning Team
+
+**P.S.** We are currently offering a special promotion for new clients. Contact us today to learn more!","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12352
+subject: Retirement Planning Services
+template_text: Dear Alice, Prepare for the future with XYZ Bank's professional retirement planning services to help you achieve financial freedom. Our retirement planning advisors will work with you one-on-one to ensure a worry-free retirement life. The XYZ Bank Team
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12388
+subject: Save Big with Our Auto Loan Special Rates!
+template_text: Drive away with a great deal! Enjoy special rates on auto loans with xyz. Low interest and quick approval apply today! Visit [bank website] or call 1234 5678 for more details.
+description: Loan Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12441
+subject: <ADV> Your guide to financial planning in your 20s
+template_text: Dear Valued Client,
+Being in your 20s means time is on your side. While you've just stepped into the adulting world, take advantage of the magic of compounding and watch your money grow over time. Unleash your full financial potential by starting a plan today.
+Are you on track to meet your wealth goals?
+Manage, grow and protect your wealth for generations to come with our XYZ Wealth Select advisory approach.
+Start planning with XYZ Goals Planner: xyz.com/sg/wealth/xyz-goals-planner
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12379
+subject: Exclusive Credit Card Offers at XYZ!
+template_text: Dear Customer, hello! Apply for our exclusive credit card now and enjoy up to 5% cashback on your monthly purchases, plus generous points that you can redeem for amazing rewards. Click www.xyz.com to apply and start enjoying these benefits today!
+description: Credit Card Promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old; Minimum monthly salary of S$3000
+ **End of Prompt**"
+10,"
+**Example:**
+- Prompt: ""You are a marketing agent for Bank XYZ. Generate a message to promote the bank's remittance product which offers no transfer fees to China.""
+- Expected Output: ""Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out moreù
+{result}
+",Persona prompting,"## Subject: Enjoy $0 Transfer Fees to China with XYZ Remit!
+
+Hi there,
+
+Looking to send money to loved ones in China? 
+
+With XYZ Remit, you can enjoy **competitive rates and $0 transfer fees** when you send money to China! 
+
+**Tap here to find out more and start sending today!**
+
+**Here's what you'll enjoy with XYZ Remit:**
+
+* **Competitive exchange rates:** Get the most out of your money with our competitive exchange rates.
+* **Fast and secure transfers:** Your money will be transferred quickly and securely to your recipient in China.
+* **Easy and convenient:** Send money online or through our mobile app in just a few clicks.
+* **No hidden fees:** We're transparent about our fees, so you know exactly what you're paying.
+
+**Don't miss out on this great opportunity! Start sending money to China with XYZ Remit today!**
+
+**Tap here to learn more.**
+
+**Sincerely,**
+
+**The XYZ Remit Team**
+
+**P.S.** This offer is valid for a limited time only. 
+
+**P.P.S.** We also offer $0 transfer fees to over 50 other countries worldwide. 
+
+**P.P.P.S.** Download our XYZ Mobile app today for an even easier and more convenient way to send money. 
+","## 
+
+## Bank XYZ Remit: Send Money to China with Zero Fees!
+
+Tired of high transfer fees when sending money to China? Look no further than Bank XYZ Remit! 
+
+**With Bank XYZ Remit, you can enjoy:**
+
+* **$0 transfer fees to China**
+* **Competitive exchange rates**
+* **Fast and secure transactions**
+* **Easy-to-use online platform**
+
+**Whether you're supporting loved ones, paying bills, or investing in China, Bank XYZ Remit makes it easy and affordable.**
+
+**Get started today and experience the difference!**
+
+**Click here to learn more.**
+
+**#BankXYZRemit #SendMoneyToChina #NoTransferFees** 
+","1. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+2. template_id: 12353
+subject: XYZ Remit: Your Gateway to China
+template_text: Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+3. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+4. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12435
+subject: <ADV> Earn up to S$1,600 by referring XYZ to your family and friends
+template_text: Dear Valued Client,
+Love banking with us? Spread the word and earn S$80 cashback for every successful referral for a participating product. The more you refer, the more you earn, all the way up to S$1,600 cashback! T&Cs apply.
+Refer and earn today by heading to: xyz.com/sg/refer 
+Or look out for a push notification invitation in your XYZ Mobile
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+11,"
+As a young professional looking to secure your financial future, XYZ Bank's investment options offer the perfect balance of risk and reward. Craft an email targeting this persona.
+{result}
+",Persona prompting,"## Subject: Invest in Your Future with XYZ Bank's Retirement Savings Plan!
+
+**Dear [Customer Name],**
+
+As a young professional, you're likely thinking about your future and how to achieve your financial goals. XYZ Bank understands the importance of planning for retirement early, and we're here to help you get started.
+
+Our Retirement Savings Plan offers the perfect balance of risk and reward, allowing you to grow your savings while enjoying potential tax advantages. With our plan, you can:
+
+* **Start saving early and benefit from the power of compounding:** The earlier you start saving, the more time your money has to grow.
+* **Choose from a variety of investment options:** We offer a range of investment options to suit your risk tolerance and financial goals.
+* **Enjoy potential tax advantages:** Your contributions may be tax-deductible, and your earnings grow tax-free until you withdraw them.
+* **Get expert advice:** Our financial advisors are here to help you choose the right investment options and answer any questions you may have.
+
+**Ready to secure your financial future?**
+
+Click here to learn more about our Retirement Savings Plan: www.xyz.com/retirement. You can also call us at 1234 5678 to speak with a financial advisor today.
+
+**Don't wait any longer - start planning for your retirement with XYZ Bank!**
+
+**Sincerely,**
+
+The XYZ Bank Team","## Subject: Secure Your Financial Future with XYZ Bank's Investment Options
+
+Dear [Young Professional Name],
+
+As a young professional, you're likely starting to think about your financial future. You're ambitious, driven, and want to ensure your hard work translates into long-term success. At XYZ Bank, we understand your aspirations and are here to help you achieve them.
+
+We offer a diverse range of investment options designed to meet the needs of young professionals like yourself. Whether you're looking for steady growth, income generation, or a combination of both, our experienced financial advisors will work with you to create a personalized investment plan that aligns with your risk tolerance and financial goals.
+
+**Here's what sets XYZ Bank apart:**
+
+* **Diverse Investment Options:** We offer a wide range of investment products, including stocks, bonds, mutual funds, ETFs, and more. This allows you to diversify your portfolio and mitigate risk.
+* **Experienced Financial Advisors:** Our team of dedicated advisors has extensive knowledge and expertise in the financial markets. They will guide you through every step of the investment process, ensuring you make informed decisions.
+* **Competitive Fees and Rates:** We offer competitive fees and rates on our investment products, so you can maximize your returns.
+* **Digital Convenience:** Manage your investments easily and conveniently through our secure online platform or mobile app.
+
+**Ready to take control of your financial future?**
+
+Schedule a free consultation with one of our financial advisors today. They will discuss your financial goals, risk tolerance, and investment preferences to create a personalized plan that's right for you.
+
+**Click here to schedule your consultation:** [Link to Consultation Page]
+
+We look forward to helping you achieve your financial dreams.
+
+Sincerely,
+
+The XYZ Bank Investment Team
+","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12441
+subject: <ADV> Your guide to financial planning in your 20s
+template_text: Dear Valued Client,
+Being in your 20s means time is on your side. While you've just stepped into the adulting world, take advantage of the magic of compounding and watch your money grow over time. Unleash your full financial potential by starting a plan today.
+Are you on track to meet your wealth goals?
+Manage, grow and protect your wealth for generations to come with our XYZ Wealth Select advisory approach.
+Start planning with XYZ Goals Planner: xyz.com/sg/wealth/xyz-goals-planner
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12443
+subject: <ADV> What's new on XYZ Goals Planner: You can now access and complete your investment profile for personalised insights
+template_text: Dear Valued Client,
+XYZ Goals Planner is our platform that helps you lay out your financial plan to achieve your goals, whether it is saving for retirement, a new home or pursuing the things you love. The insights from the financial plan combined with your investment profile will enable us to provide personalised wealth solutions to achieve your goals.
+Start your journey by completing your financial plan and your investment profile today!
+To find out more about XYZ Goals Planner, visit our website and search for ""Goals Planner"".
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$5000"
+12,"
+**Example:**
+- Prompt: "" Make your money go further. Enjoy preferential FX rates""
+- Expected Output: "" when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply. Save on fees when you send money home.""
+{result}
+",Completion prompting,"## Subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+
+## Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+
+## Save on fees when you send money home.
+
+**Here are some additional benefits of using XYZ to send money to Malaysia:**
+
+* **Fast and convenient:** Transfers are typically completed within 1-2 business days.
+* **Secure:** Your money is protected by our world-class security measures.
+* **Easy to use:** Our online platform is easy to use and navigate.
+
+**To get started, simply follow these steps:**
+
+1. Log in to your XYZ Internet Banking or the XYZ Digital app.
+2. Select ""Send Money"" from the main menu.
+3. Choose ""Malaysia"" as the destination country.
+4. Enter the amount of money you want to send.
+5. Review the details of your transfer and click ""Send.""
+
+**For more information, please visit our website or contact our customer service team.**
+
+**We look forward to helping you send money to Malaysia!**
+
+**T&Cs apply.**","- Prompt: ""I have a 2015 Honda Civic EX-T with 100,000 miles on it. I'm looking to get a new car, but I'm not sure what to get. I like the size and fuel efficiency of the Civic, but I'm also interested in something with more features and technology. I'm open to both new and used cars, and my budget is around $25,000. What are some good options for me?""
+- Expected Output: ""## Options for Replacing Your 2015 Honda Civic EX-T
+
+With your 2015 Honda Civic EX-T nearing 100,000 miles and a desire for newer features and technology, it's time to explore your options for a replacement. Here are some suggestions keeping in mind your budget of $25,000 and preference for similar size and fuel efficiency:
+
+**New Cars:**
+
+* **2024 Honda Civic:** The latest Civic offers a refined driving experience, improved fuel economy (up to 42 mpg highway), and a host of tech features like a 9-inch touchscreen and Honda Sensing safety suite. Prices start around $20,350.
+* **2024 Kia Forte:** The Forte provides a spacious interior, a user-friendly infotainment system, and impressive fuel economy (up to 41 mpg highway). Starting MSRP is around $19,690.
+* **2024 Hyundai Elantra:** The Elantra boasts a sleek design, a long list of standard features, and excellent fuel efficiency (up to 43 mpg highway). Its base price is around $20,545.
+
+**Used Cars:**
+
+* **2018-2020 Honda Accord:** If you desire more space and features, a slightly used Accord could be a great choice. It offers a comfortable ride, a powerful engine, and advanced tech features. Expect prices to range from $20,000 to $25,000 depending on year, mileage, and condition.
+* **2019-2021 Toyota Camry:** The Camry is known for its reliability, fuel efficiency (up to 41 mpg highway), and spacious interior. Used models within your budget should be readily available.
+* **2017-2019 Mazda Mazda6:** The Mazda6 provides a sporty driving experience, a luxurious interior, and impressive fuel economy (up to 35 mpg highway). You can find used models within your budget with moderate mileage.
+
+**Additional Factors to Consider:**
+
+* **Fuel type:** If fuel efficiency is a top priority, consider hybrid or electric options. 
+* **Safety ratings:** Research the safety ratings of your shortlisted vehicles.
+* **Reliability:** Look for models with a proven track record of reliability.
+* **Test drive:** Always test drive a car before making a final decision.
+
+Ultimately, the best choice depends on your individual needs and preferences. Take your time, research your options carefully, and don't hesitate to ask questions at dealerships or consult trusted sources for advice. 
+","1. template_id: 12423
+subject: <ADV> Limited Time: Enjoy ZERO foreign exchange (FX) fees when you spend overseas with XYZ Credit Cards
+template_text: What better way to travel enjoy ZERO FX fees on your overseas spends (min. spend of S$300 equivalent) with any XYZ Credit Cards in Malaysia, Thailand and Japan from 15 March to 15 April 2024. 
+To register, simply SMS SCFX to 77222.
+Please visit our official website for offer details. Terms and Conditions apply.
+description: Remittance promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+2. template_id: 12420
+subject: <ADV> 0 Foreign Transaction Fee and Uncapped 1.5% Cashback with XYZ Simply Cash Credit Card
+template_text: Get the most out of your travel spends with 1._5% uncapped cashback and for a limited time only, 0 foreign transaction fee with XYZ Simply Cash Credit Card.
+Simply charge S$2,500 or more to your card from now till 3_1 Ma_y 20_24 to unlock 0 foreign transaction fee^ for all your overseas spends in Ju_ne 20_2_4.
+To register, SMS FXSC to 772_22. This offer is limited to the first 5,000 cardholders.
+Please visit XYZ Bank Singapore website and search for ""The Good Life Promotions"" for offer details. For the full spends promotion details, please visit our official website. T&Cs apply.
+description: Remittance promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12394
+subject: <ADV> Send money from Singapore to Malaysia at preferential rates!
+template_text: From now till 30 April 2024, enjoy preferential exchange rates and avoid cable/commission fees when you transfer funds from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) accounts. Rest assured that rates quoted on our website are guaranteed even during market off hours (including public holidays and weekends). Log in to XYZ Internet Banking or the XYZ Digital app to get started now! Terms and conditions apply.
+description: Exchange Rate Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+4. template_id: 12370
+subject: Send money to Malaysia at preferential rates. No cable/commission fees charged!
+template_text: Make your money go further. Enjoy preferential FX rates when you make online transfers from your XYZ Singapore (SGD) account to any XYZ Malaysia (MYR) one. What is more, we will waive all cable/commission fees; agent fees, if any, will still be charged. T&Cs apply.
+Save on fees when you send money home
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+5. template_id: 12439
+subject: <ADV> Earn higher interest of up to 7% p.a. on your USD with USD$aver
+template_text: Dear Valued Client,
+We are excited to share that our USD$aver now comes with a higher interest rate of up to 7% p.a. to help you grow your USD deposits with no lock-in period.
+Visit USD$aver webpage for more details.
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+13,"
+XYZ Bank's new investment plan is designed to offer the best returns on the market. This plan includes...
+{result}
+",Completion prompting,"## Subject: Plan Your Future with Our Investment Plan!
+
+**Dear Customer,**
+
+Are you looking for a way to **secure your financial future** and **maximize your returns**? Look no further than XYZ Bank's new **Investment Plan**!
+
+**Here's what our plan offers you:**
+
+* **Competitive returns:** Enjoy potential returns of **up to 4.65% a year** when you credit your salary, save, and spend on your XYZ Account.
+* **Flexibility:** Choose the investment option that best suits your needs and risk tolerance.
+* **Tax advantages:** Benefit from potential tax savings on your investments.
+* **Convenience:** Manage your investments easily online or through our mobile app.
+* **Expert guidance:** Our team of financial advisors is here to help you every step of the way.
+
+**Don't miss out on this opportunity to grow your wealth!**
+
+**Click here to learn more and get started today:** www.xyz.com
+
+**Call us at 1234 5678 to speak with a financial advisor.**
+
+**Sincerely,**
+
+**The XYZ Bank Team**
+
+**P.S.** Don't forget to check out our other great offers:
+
+* **Exclusive Credit Card Offers:** Earn up to 5% cashback on your monthly purchases and redeem points for amazing rewards.
+* **Hassle-free Investing:** Let us help you choose the right investment options for your needs.
+* **Competitive Savings Rates:** Secure your financial future with our high-yield savings account.
+
+**Visit www.xyz.com or call us at 1234 5678 today!**
+","## XYZ Bank's New Investment Plan: 
+
+**XYZ Bank's new investment plan** promises to offer the best returns on the market. This plan includes:
+
+* **High-yield investments:** The plan invests in a variety of high-yield assets, such as stocks, bonds, and real estate, with the potential to generate significant returns.
+* **Diversification:** The plan is well-diversified across different asset classes and industries, which helps to mitigate risk and improve the chances of achieving consistent returns.
+* **Professional management:** The plan is managed by a team of experienced investment professionals who have a proven track record of success.
+* **Low fees:** XYZ Bank offers competitive fees on its investment plans, making it an affordable option for investors of all levels.
+* **Flexibility:** Investors can choose from a variety of investment options to suit their individual needs and risk tolerance.
+* **Transparency:** XYZ Bank provides regular updates on the performance of the plan and its investments.
+
+**Here are some additional details about the plan:**
+
+* **Minimum investment:** The minimum investment amount is $1,000.
+* **Investment term:** The investment term is 5 years.
+* **Expected returns:** XYZ Bank expects the plan to generate an average annual return of 10%.
+* **Risk level:** The risk level of the plan is considered to be moderate.
+
+**Overall, XYZ Bank's new investment plan appears to be a well-designed and comprehensive investment option that has the potential to generate significant returns for investors.** However, it is important to remember that all investments involve risk, and there is no guarantee that the plan will meet its expected returns. 
+
+**Before investing in this plan, it is important to carefully consider your individual investment goals, risk tolerance, and financial situation.** You should also do your own research on the plan and the investments it includes. You may also want to consult with a financial advisor to get personalized advice on whether this plan is right for you. 
+","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12400
+subject: <ADV> Earn bigger returns with up to 4.65% a year when you credit your salary, save and spend on an XYZ Account
+template_text: From up to 4.05% a year, we've increased our interest rate to up to 4.65% when you credit your salary, save and spend on your XYZ Account. Earn bigger, better gains of additional 3% a year when you invest and insure! So if you're earning less interest elsewhere, now's the time to consolidate your funds with the XYZ Account to maximise your savings. Terms and conditions apply.
+description: Credit Card Promotion
+platform: Mobile
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12354
+subject: Plan with XYZ
+template_text: Seeking hassle-free invsesting? Tap here to select your preferred review frequency, and we'll tailor product recommendations to match your preference.
+description: Investment Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$2000
+4. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12379
+subject: Exclusive Credit Card Offers at XYZ!
+template_text: Dear Customer, hello! Apply for our exclusive credit card now and enjoy up to 5% cashback on your monthly purchases, plus generous points that you can redeem for amazing rewards. Click www.xyz.com to apply and start enjoying these benefits today!
+description: Credit Card Promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old; Minimum monthly salary of S$3000"
+14,"
+Use the following pieces of context to answer the below question/request. 
+Generate a compelling marketing message for XYZ Bank that highlights the benefits of their new remittance promotions for customers looking to remit money overseas.
+Focus on the features and potential rebates customers will get to enjoy.
+{result}
+",Guided prompting,"## Send Money Overseas with Ease and Save with XYZ Remit!
+
+**Tired of high fees and complicated paperwork when sending money overseas?** 
+
+With **XYZ Remit**, you can now send money to your loved ones abroad with **$0 transfer charges** to over 50 countries globally! 
+
+**Enjoy the benefits of:**
+
+* **Competitive exchange rates**
+* **Fast and secure transactions**
+* **Convenient online and mobile platform**
+* **No hidden fees or charges**
+
+**Plus, for a limited time, enjoy special rebates on your transfers!**
+
+* **Send money to China?** Get **$0 transfer fees** and **competitive exchange rates**.
+* **Need to make regular international payments?** Benefit from **no cable and commission fees** when you remit online in 19 currencies.
+* **Know someone looking to open a bank account in Singapore?** Refer them to XYZ and **earn up to S$210**!
+
+**Don't miss out on these amazing offers!** 
+
+**Visit our website or download the XYZ Mobile app today to learn more.**
+
+**XYZ Remit - Your trusted partner for sending money overseas.**
+
+**#XYZRemit #SendMoneyOverseas #SaveMoney #GlobalTransfers** 
+","## Send Money Overseas with Ease and Save Big with XYZ Bank!
+
+**Are you looking to send money internationally?** Look no further than XYZ Bank! We're excited to announce our **limited-time remittance promotion**, offering you incredible benefits and **potential rebates** when you choose us for your overseas transfers.
+
+**Here's what you can enjoy with XYZ Bank:**
+
+* **Competitive exchange rates:** Get the most out of your money with our competitive rates, ensuring you send more to your loved ones abroad.
+* **Low transfer fees:** We believe in making international transfers affordable. That's why we offer some of the lowest fees in the market.
+* **Fast and secure transactions:** Your money will reach its destination quickly and securely, thanks to our advanced technology and global network.
+* **Convenient online platform:** Send money anytime, anywhere with our user-friendly online platform. Manage your transfers, track their progress, and access your account information with ease.
+* **Potential rebates:** During our promotion period, you could be eligible for exciting rebates on your transfer fees! The more you send, the more you save. 
+
+**Don't miss out on this incredible opportunity!** Choose XYZ Bank for your next international money transfer and experience the difference. 
+
+**Visit our website or contact us today to learn more about our remittance promotion and start saving!**
+
+**Limited time offer. Terms and conditions apply.** 
+
+**#XYZBank #Remittance #InternationalTransfer #SaveBig #SendMoneyOverseas** 
+","1. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+2. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12353
+subject: XYZ Remit: Your Gateway to China
+template_text: Enjoy competitive rates and $0 transfer fees when you send money to China with XYZ Remit! Tap to find out more.
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+4. template_id: 12371
+subject: Stand to win S$8,888 when you refer friends to XYZ
+template_text: Last week to stand to win S$8,888 & an omakase dinner for 2. Refer overseas friends to XYZ & earn up to $210. Get 1 lucky draw chance for every 5 who open accounts and deposit S$1k. Help them prep! They can open bank accounts remotely prior to arriving in.
+
+description: Savings promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$3000
+5. template_id: 12435
+subject: <ADV> Earn up to S$1,600 by referring XYZ to your family and friends
+template_text: Dear Valued Client,
+Love banking with us? Spread the word and earn S$80 cashback for every successful referral for a participating product. The more you refer, the more you earn, all the way up to S$1,600 cashback! T&Cs apply.
+Refer and earn today by heading to: xyz.com/sg/refer 
+Or look out for a push notification invitation in your XYZ Mobile
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+15,"
+Use the following pieces of context to answer the question at the end. 
+Generate a compelling email marketing message for XYZ Bank that highlights the benefits of their new investment plan for customers looking to maximize their savings. 
+Focus on the features and potential returns of the plan.
+{result}
+",Guided prompting,"## Subject: **Maximize Your Savings and Secure Your Future with XYZ Bank's New Investment Plan!**
+
+**Dear [Customer Name],**
+
+Are you looking for a way to maximize your savings and secure your financial future? Look no further than XYZ Bank's new **Investment Plan**!
+
+**Grow Your Wealth with Potential High Returns:**
+
+Our Investment Plan offers the potential for **high returns**, allowing you to reach your financial goals faster. With a variety of investment options to choose from, you can tailor the plan to your individual risk tolerance and financial objectives.
+
+**Enjoy Tax Advantages:**
+
+The Investment Plan also offers **potential tax advantages**, helping you keep more of your hard-earned money. This means more money growing towards your future!
+
+**Flexibility and Control:**
+
+You have complete control over your investments. You can choose to make regular contributions, lump sum payments, or even withdraw funds when needed. 
+
+**Easy and Convenient Management:**
+
+Manage your investments easily and conveniently through our secure online platform or mobile app. You can track your progress, make changes, and stay informed about market trends.
+
+**Start Planning for Your Future Today:**
+
+Don't wait any longer to secure your financial future. **Visit www.xyz.com or call 1234 5678 today** to learn more about our Investment Plan and start investing in your dreams!
+
+**Sincerely,**
+
+**The XYZ Bank Team**
+
+**P.S.** Don't forget to check out our other financial products and services, including high-yield savings accounts and credit cards with exclusive rewards!","## Subject: Maximize Your Savings with XYZ Bank's New Investment Plan!
+
+**Dear [Customer Name],**
+
+Are you looking for a way to grow your savings and secure your financial future? Look no further than XYZ Bank's new **[Investment Plan Name]**! This exciting plan offers you:
+
+* **High potential returns:** Invest in a diversified portfolio of assets with the potential to significantly outpace traditional savings accounts.
+* **Flexibility:** Choose from a variety of investment options to match your risk tolerance and financial goals.
+* **Expert guidance:** Our team of experienced financial advisors is here to help you choose the right investment strategy for you.
+* **Low fees:** Enjoy competitive fees that won't eat into your returns.
+
+**Here are just a few of the benefits you can enjoy with the [Investment Plan Name]:**
+
+* **The potential to double your money in just 5 years!**
+* **Tax-advantaged growth:** Your investments can grow tax-free, helping you keep more of your hard-earned money.
+* **Automatic contributions:** Set up automatic transfers from your checking or savings account to make investing effortless.
+* **24/7 online access:** Monitor your investments and make changes anytime, anywhere.
+
+**Ready to start growing your savings?**
+
+Click here to learn more about the [Investment Plan Name] and open your account today!
+
+**Don't miss out on this opportunity to secure your financial future. Start investing with XYZ Bank today!**
+
+**Sincerely,**
+
+**The XYZ Bank Team**
+
+**P.S.** For a limited time, we're offering a special bonus for new investors. Open your account today and receive a **[Bonus amount]** bonus! 
+
+**[Call to action button]** 
+
+**[Disclaimer]**
+
+*Past performance is not indicative of future results. All investments involve risk, including the potential loss of principal. 
+*Consult with a financial advisor before making any investment decisions. 
+","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12351
+subject: Exclusive Benefits Await
+template_text: Dear Lily, Step up your spending experience and apply for the XYZ Saver's Credit Card now. As our esteemed customer, you will enjoy $600 gift! Apply now to start your journey of privileges.  XYZ Team
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12378
+subject: Start Your Wealth Journey with High Interest Rates!
+template_text: Hello! We have prepared a new high-yield savings product for you, with an annual interest rate of up to 5%! Open an account now and enjoy flexible withdrawal options, making wealth management easy. Call 1234 5678 now to learn more and start your wealth journey today!
+description: Savings promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12379
+subject: Exclusive Credit Card Offers at XYZ!
+template_text: Dear Customer, hello! Apply for our exclusive credit card now and enjoy up to 5% cashback on your monthly purchases, plus generous points that you can redeem for amazing rewards. Click www.xyz.com to apply and start enjoying these benefits today!
+description: Credit Card Promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old; Minimum monthly salary of S$3000"
+16,"
+Imagine a customer looking to remit their money overseas monthly to his/her family after receiving monthly salaries. Write a marketing message for XYZ Bank that convinces them to use XYZ's remittance services by illustrating the benefits of remitting money monthly with XYZ.
+{result}
+",Hypothetical prompting,"## Send Money Home with Confidence - Choose XYZ Remit Every Month!
+
+**Tired of high fees and complicated paperwork when sending money overseas to your loved ones?** 
+
+Say goodbye to those frustrations with **XYZ Remit**, your trusted partner for **reliable and affordable international money transfers**. 
+
+**Here's why you should choose XYZ Remit for your monthly remittances:**
+
+* **$0 transfer charges to over 50 countries globally.** Keep more of your hard-earned money in your pocket.
+* **Convenient and secure online platform.** Send money anytime, anywhere with just a few clicks.
+* **Competitive exchange rates.** Get the most out of your money with our competitive rates.
+* **Fast and reliable delivery.** Your loved ones will receive the money quickly and securely.
+* **No hidden fees or charges.** What you see is what you pay.
+
+**Make sending money home a stress-free experience with XYZ Remit. Sign up today and enjoy the benefits of monthly remittances with us!**
+
+**Plus, as a valued XYZ customer, you also have access to a range of other great financial services, including:**
+
+* **Retirement Savings Plans:** Secure your future with our comprehensive savings plan.
+* **Auto Loans:** Get special rates on auto loans with low interest and quick approval.
+* **High-Interest Savings Accounts:** Earn competitive interest rates on your savings.
+
+**Visit our website or call us today to learn more about XYZ Remit and our other financial services.**
+
+**Website:** www.xyz.com
+**Phone:** 1234 5678
+
+**Don't wait any longer, choose XYZ Remit for your monthly remittances and experience the difference!**","## XYZ Bank: Your Reliable Partner for Monthly Remittances
+
+**Are you sending money overseas to your loved ones every month?** 
+
+At XYZ Bank, we understand the importance of supporting your family back home. That's why we offer a convenient and affordable way to send money internationally on a regular basis.
+
+**Here's why you should choose XYZ Bank for your monthly remittances:**
+
+* **Competitive exchange rates:** We offer some of the best exchange rates in the market, ensuring your family receives the maximum value for your money.
+* **Low transfer fees:** We keep our transfer fees low, so you can send more money to your loved ones.
+* **Fast and reliable transfers:** Your money will be delivered to your family quickly and securely, usually within 1-3 business days.
+* **Multiple transfer options:** Choose the transfer method that best suits your needs, whether it's online, through our mobile app, or at any of our branches.
+* **Dedicated customer support:** Our friendly and knowledgeable customer service team is always available to answer your questions and help you with your transfers.
+
+**With XYZ Bank, you can:**
+
+* **Set up automatic monthly transfers:**  This ensures your family receives their money on time, every month, without you having to worry about manually initiating each transfer.
+* **Track your transfers:**  Easily monitor the status of your transfers online or through our mobile app.
+* **Manage your account:**  View your transaction history, update your beneficiary information, and more, all in one place.
+
+**Make the switch to XYZ Bank today and experience the benefits of sending money overseas with confidence and ease.**
+
+**Visit our website or any of our branches to learn more and start sending money with XYZ Bank.**
+
+**We're here to help you connect with your loved ones, no matter where they are.**","1. template_id: 12414
+subject: <ADV> Send money overseas to your loved ones at $0 transfer charges with XYZ Remit
+template_text: Enjoy $0 transfer charges to more than 50 countries globally
+Sending money overseas has never been easier. With XYZ Remit, you can now enjoy the convenience of sending money to your loved ones abroad without worrying about high fees and complicated paperwork.
+Check out our rates on XYZ Mobile with a few clicks when you send money home to the following markets and more.
+For more details, visit our website > Services > XYZ Remit.  
+description: Remittance promotion
+platform: Email
+requirements: Customers between 18 to 80 years old
+2. template_id: 12376
+subject: Fulfill your global needs when you remit with XYZ
+template_text: Benefit from no cable and commission fees when you make overseas remittances online in 19 currencies, including USD, AUD and EUR. Enjoy this perk when you send money to loved ones, pay tuition or property fees abroad, and more. Agent fees, if applicable, will still be charged. Till 31 Dec 2024. T&Cs apply.
+Remit now
+
+description: Remittance promotion
+platform: Mobile
+requirements: Customers between 25 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+4. template_id: 12388
+subject: Save Big with Our Auto Loan Special Rates!
+template_text: Drive away with a great deal! Enjoy special rates on auto loans with xyz. Low interest and quick approval apply today! Visit [bank website] or call 1234 5678 for more details.
+description: Loan Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12381
+subject: Unlock Your Financial Potential with Our New Savings Account!
+template_text: Open a new savings account with XYZ today and enjoy competitive interest rates and easy online management. Secure your financial future with us! Visit www.xyz.com or call 1234 5678 for more information.
+description: Savings Promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"
+17,"
+Use the following pieces of context to answer the below question/request. 
+Imagine a customer looking to invest their annual bonus. 
+Write an email for XYZ Bank that convinces them to choose 
+XYZ's investment services by explaining how it aligns with 
+their goal of future financial security.
+{result}
+",Hypothetical prompting,"## Subject: Invest Your Bonus Wisely with XYZ Bank's Wealth Management Services
+
+Dear [Customer Name],
+
+Congratulations on receiving your annual bonus! This is a great opportunity to invest in your future and secure your financial well-being. At XYZ Bank, we understand the importance of planning for the future, and we're here to help you make the most of your bonus.
+
+With our personalized wealth management services, you can:
+
+* **Get expert advice from experienced financial advisors.** Our team will work closely with you to understand your financial goals and risk tolerance, and develop a customized investment plan that aligns with your needs.
+* **Explore a range of investment options.** We offer a diverse portfolio of investment products, including stocks, bonds, mutual funds, and ETFs, allowing you to diversify your portfolio and mitigate risk.
+* **Benefit from potential tax advantages.** Depending on your investment choices, you may be eligible for tax benefits that can help you save even more money.
+* **Enjoy convenient access to your investments.** Our online platform allows you to monitor your portfolio performance, make changes to your investments, and access your account information anytime, anywhere.
+
+By investing your bonus with XYZ Bank, you're taking a significant step towards achieving your long-term financial goals. Whether you're looking to save for retirement, a down payment on a home, or simply build a nest egg for the future, our wealth management services can help you get there.
+
+**Here's what sets XYZ Bank apart:**
+
+* **Personalized attention:** We take the time to understand your individual needs and goals, ensuring that your investment plan is tailored to your unique circumstances.
+* **Experienced advisors:** Our team of financial advisors has extensive experience and expertise in the financial markets, providing you with the guidance and support you need to make informed investment decisions.
+* **Comprehensive range of services:** We offer a full suite of wealth management services, including investment planning, retirement planning, estate planning, and more.
+* **Competitive fees:** We believe in providing our clients with the best possible value for their money, and our fees are competitive with other financial institutions.
+
+**Ready to start investing your bonus?**
+
+Contact us today at 1234 5678 or visit our website at www.xyz.com to schedule a consultation with one of our financial advisors. They will be happy to answer your questions and help you develop a personalized investment plan that meets your needs.
+
+**Don't miss out on this opportunity to secure your financial future. Invest your bonus wisely with XYZ Bank today!**
+
+Sincerely,
+
+The XYZ Bank Wealth Management Team","## Subject: Invest Your Bonus Wisely with XYZ Bank and Secure Your Financial Future
+
+Dear [Customer Name],
+
+Congratulations on receiving your annual bonus! This is a fantastic opportunity to invest in your future and build a solid foundation for financial security. At XYZ Bank, we understand the importance of making smart investment decisions, and we're here to help you achieve your financial goals.
+
+**Why Choose XYZ Bank for Your Investment Needs?**
+
+* **Personalized Investment Plans:** Our experienced financial advisors will work with you to create a customized investment plan tailored to your specific needs and risk tolerance. 
+* **Diversified Investment Options:** We offer a wide range of investment options, including stocks, bonds, mutual funds, and ETFs, allowing you to diversify your portfolio and mitigate risk.
+* **Competitive Rates and Fees:** We believe in providing our clients with transparent and competitive rates and fees, ensuring your investments work for you.
+* **Secure and Convenient Online Platform:** Manage your investments easily and securely through our user-friendly online platform, accessible anytime, anywhere.
+* **Dedicated Customer Support:** Our dedicated customer support team is available to answer your questions and provide guidance throughout your investment journey.
+
+**Investing for Your Future Financial Security:**
+
+Investing your bonus with XYZ Bank can help you achieve your long-term financial goals, such as:
+
+* **Building a comfortable retirement nest egg.**
+* **Saving for a down payment on a house.**
+* **Funding your children's education.**
+* **Creating a financial safety net for unexpected expenses.**
+
+**Get Started Today:**
+
+Take the first step towards securing your financial future. Contact one of our financial advisors today for a free consultation. We'll discuss your goals and develop a personalized investment plan that aligns with your needs and risk tolerance.
+
+**Don't miss this opportunity to invest your bonus wisely and build a brighter financial future with XYZ Bank.**
+
+Sincerely,
+
+The XYZ Bank Team","1. template_id: 12385
+subject: Plan Your Future with Our Retirement Savings Plan!
+template_text: Dear Customer, secure your retirement with our comprehensive savings plan! Enjoy potential tax advantages and plan for a worry-free future. Learn more at www.xyz.com or call 1234 5678 today.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 18 to 80 years old
+2. template_id: 12387
+subject: Invest in Your Future with Our Wealth Management Services!
+template_text: Invest in your future with our personalized wealth management services. Get expert advice and explore a range of investment opportunities. Contact our advisors at1234 5678 or visit www.xyz.com to get started.
+description: Wealth planning promotion
+platform: Mobile
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+3. template_id: 12351
+subject: Exclusive Benefits Await
+template_text: Dear Lily, Step up your spending experience and apply for the XYZ Saver's Credit Card now. As our esteemed customer, you will enjoy $600 gift! Apply now to start your journey of privileges.  XYZ Team
+description: Credit Card Promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000
+4. template_id: 12443
+subject: <ADV> What's new on XYZ Goals Planner: You can now access and complete your investment profile for personalised insights
+template_text: Dear Valued Client,
+XYZ Goals Planner is our platform that helps you lay out your financial plan to achieve your goals, whether it is saving for retirement, a new home or pursuing the things you love. The insights from the financial plan combined with your investment profile will enable us to provide personalised wealth solutions to achieve your goals.
+Start your journey by completing your financial plan and your investment profile today!
+To find out more about XYZ Goals Planner, visit our website and search for ""Goals Planner"".
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 20 to 80 years old; Minimum monthly salary of S$5000
+5. template_id: 12441
+subject: <ADV> Your guide to financial planning in your 20s
+template_text: Dear Valued Client,
+Being in your 20s means time is on your side. While you've just stepped into the adulting world, take advantage of the magic of compounding and watch your money grow over time. Unleash your full financial potential by starting a plan today.
+Are you on track to meet your wealth goals?
+Manage, grow and protect your wealth for generations to come with our XYZ Wealth Select advisory approach.
+Start planning with XYZ Goals Planner: xyz.com/sg/wealth/xyz-goals-planner
+description: Wealth planning promotion
+platform: Email
+requirements: Customers between 30 to 80 years old; Minimum monthly salary of S$5000"

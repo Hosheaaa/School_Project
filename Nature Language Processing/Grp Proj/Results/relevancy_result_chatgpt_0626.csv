@@ -1,0 +1,19 @@
+,score,reason
+0,1.0,The score is 1.00 because the response perfectly addresses the request by explaining how XYZ's investment services align with the customer's goal of future financial security.
+1,1.0,The score is 1.00 because the actual output perfectly addresses the request by promoting XYZ Bank's investment services and highlighting their advantages over competitors.
+2,0.8,"The score is 0.80 because the statement in the actual output is about transfer charges to multiple countries globally, not specifically about China as requested in the input."
+3,1.0,"The score is 1.00 because the output provided is highly relevant to the input prompt, addressing the task of composing an email for XYZ Bank to encourage recipients to explore investment options."
+4,0.6363636363636364,"The score is 0.64 because the irrelevant statements about 'Template IDs' do not provide any relevant information for generating remittance promotion messages, but the output still addresses the main subject of generating remittance promotion messages effectively."
+5,1.0,"The score is 1.00 because the generated email marketing message aligns perfectly with the input prompt, focusing on risk management and potential returns for XYZ Bank's investment services."
+6,1.0,The score is 1.00 because the response is highly relevant to addressing the input by providing a detailed guide on designing behaviorally-informed communications.
+7,1.0,The score is 1.00 because the answer provided directly addresses the guidelines and provides a concise summary on how each of the generated marketing content follows the guidelines.
+8,0.625,"The score is 0.62 because the irrelevant statements in the output, such as 'Remittance Promotion', 'Mobile', and the customer criteria, detract from the direct relevance to the input prompt, which affects the overall score. However, the output still maintains a moderate level of relevancy to the prompt, resulting in the current score."
+9,0.7,"The score is 0.70 because while the email message does address the wealth planning services offered by Bank XYZ, there are irrelevant statements included such as 'Description: Wealth planning promotion', 'Platform: Mobile', and 'Requirements: Customers between 18 to 80 years old'. These statements do not contribute to the relevant information provided in the email message, thus lowering the relevancy score."
+10,1.0,The score is 1.00 because the output directly addresses the prompt by promoting the bank's remittance product with no transfer fees to China.
+11,1.0,The score is 1.00 because the output addresses the input perfectly.
+12,0.9230769230769231,"The score is 0.92 because the irrelevant statement 'Certainly!' does not directly address the input about making money go further with preferential FX rates for online transfers. The other parts of the output are highly relevant, leading to a high score."
+13,1.0,The score is 1.00 because the output provided directly addresses the input with relevant information.
+14,1.0,"The score is 1.00 because the generated marketing message effectively highlights the benefits of XYZ Bank's new remittance promotions for customers looking to remit money overseas, focusing on features and potential rebates as requested."
+15,1.0,"The score is 1.00 because the output perfectly addresses the request by focusing on the benefits, features, and potential returns of XYZ Bank's new investment plan for maximizing savings."
+16,1.0,"The score is 1.00 because the output provided a concise and relevant marketing message illustrating the benefits of using XYZ Bank's remittance services for monthly money transfers, directly addressing the input."
+17,1.0,The score is 1.00 because the response directly addresses the request to write an email for XYZ Bank convincing a customer to choose their investment services for future financial security.
