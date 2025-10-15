@@ -50,3 +50,8 @@ wheels/
 *.tmp
 *.temp
 *.log
+
+# Resume files (only keep PDF version)
+Resume.docx
+简历-杨和旭-AI方向.md
+*.doc
